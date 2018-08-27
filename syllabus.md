@@ -150,8 +150,8 @@ The course will culminate in a final project.
 - 2018-10-22  Network II / Final Project Workshop
     -  Readings:
         -  [Weingart, Scott. “Topic Modeling and Network Analysis.”](http://www.scottbot.net/HIAL/index.html@p=221.html)
-        - [Weingart, Scott. “Contextualizing networks with maps.”](http://www.scottbot.net/HIAL/index.html@p=1942.html)
-        - Explore the grants in this database. Select 1 to close analyze. Come to class prepared to answer the following questions: (1) What is the goal of the grant? (2) What scholarly question(s) or problem(s) is the grant trying to address? (3) Are there other projeects that are similar? Working with (4) Who is involved in the grant? (5) What is the structure of the grant?
+        -  [Weingart, Scott. “Contextualizing networks with maps.”](http://www.scottbot.net/HIAL/index.html@p=1942.html)
+        -  Explore [the grants](https://securegrants.neh.gov/publicquery/main.aspx?q=1&a=0&n=0&o=0&ot=0&k=0&f=0&s=0&cd=0&p=0&d=1&dv=12&y=0&prd=0&cov=0&prz=0&wp=1&ob=year&or=DESC) in this database. Select 1 to close analyze. Come to class prepared to answer the following questions: (1) What is the goal of the grant? (2) What scholarly question(s) or problem(s) is the grant trying to address? (3) Are there other projeects that are similar? Working with (4) Who is involved in the grant? (5) What is the structure of the grant?
  
     - Lab: Networks in R
 
@@ -159,8 +159,9 @@ The course will culminate in a final project.
 
 
 - 2018-10-29  Videographic Criticism
-    -Readings: 
-        - TBA
+    - Readings: 
+        - [Monaghan, Peter. "Has the Video Essay Arrived?"](http://www.movingimagearchivenews.org/has-the-video-essay-arrived/)
+        - Others: TBA
 
 *2018-11-2: Network Assignment Due*
 
@@ -178,7 +179,7 @@ The course will culminate in a final project.
         - [Crampton, Jeremy. Mapping: A Critical Introduction to Cartography and GIS. Wiley-Blackwell, 2010.](https://github.com/introdh2016/other)
         - Thick Mapping: TBA
         - Explore [American Panorama](http://dsl.richmond.edu/panorama/). Come to class prepared to think about a specific map through the lends of Crampton and Presner, et al. 
-    - Assignment Prep: Explore [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/) and select the city you want to work geolocate. 
+    - Assignment Prep: Make sure you are tracking your movement through the meachism of your choice. 
     - Lab: GIS 
 
 - 2018-11-19  Project Workshop 
@@ -188,9 +189,9 @@ The course will culminate in a final project.
 - 2018-11-26  Computational Critique Through the Humanities 
     - Readings:
         - [Fitzpatrick, Kathleen. “The Humanities, Done Digitally.” Debates in the Digital Humanities. 2012.](http://dhdebates.gc.cuny.edu/debates/text/30)
-        - http://dhdebates.gc.cuny.edu/debates/part/4
-        - https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  
-        - https://motherboard.vice.com/en_us/article/3dak5w/code-is-political \
+        - Wendy Chun, TBA
+        - [What is code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)  
+        - ["Code Is Policitcal." Vice Motherboard.](https://motherboard.vice.com/en_us/article/3dak5w/code-is-political)
     - Lab: TBA    
 
 - 2018-12-03  Presentations
