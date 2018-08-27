@@ -18,7 +18,8 @@ Pick one: [Forced Migration](https://dsl.richmond.edu/panorama/forcedmigration/#
 [Mining The Dispatch](https://dsl.richmond.edu/dispatch/), 
 [#SOTU2014: See the State of The Union address minute by minute on Twitter](http://twitter.github.io/interactive/sotu2014/#p1),
 [Signs@40](http://signsat40.signsjournal.org/),
-[Movie Galaxies](http://moviegalaxies.com/movies)
+[Movie Galaxies](http://moviegalaxies.com/movies),
+[Virginia Library: Transcribe](http://www.virginiamemory.com/transcribe/)
 
 - What is the goal?
 - Which fields (i.e history) do you see the project in conversation with?
