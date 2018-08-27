@@ -2,8 +2,9 @@
 
 ## Github 
 - What is Github? Git is a version control system developed by Linus Torvalds. When developers create something (an app, for example), they make constant changes to the code, releasing new versions up to and after the first official (non-beta) release. GitHub is a gathering place for version control. 
-- What use GitHub?
-	- Open Source
+- Why use GitHub?
+	- Built on Open Source software (git)
+	- Free to use
 	- Popular project management tool for computational/ programming work.
 	- You can take your work with you! 
 - Create an account: We need to create an account on github. This requires choosing a username. What should we consider when creating a user name? Now create an account. Go to [github.com](wwww.github.com) and create an account. 
