@@ -6,6 +6,7 @@ Questions for each week's assignment.
 ## Reading: Overview
 - Who is the author(s)/ creator(s)?
 - What is the object of study? In other words, what is the piece interested in interrogating?
+- Identify a paragraph that stuck out to you.
 - What is their argument(s)?
 - Why does this object of study matter?
 
