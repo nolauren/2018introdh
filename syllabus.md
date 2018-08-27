@@ -84,26 +84,25 @@ The course will culminate in a final project.
 
 - 2018-09-03  Text Analysis I - Distant Reading
     - Readings:
-        - [Underwood, Ted. A Geneology of Distant Reading.](http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html)
-        - Jockers, Matthew. *Macroanalysis*. Introduction. (UR Electronic Resource)
-        - Cultural Analytics Article, TBA
+        - [Underwood, Ted. "A Geneology of Distant Reading."](http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html)
+        - Jockers, Matthew. [*Macroanalysis*. Foundation (3-35), Nationality (105-118) (UR Electronic Resource)](https://muse.jhu.edu/book/21978). Make sure to be on the UR server. 
     - Lab: Voyant
 
 - 2018-09-10  Text Analysis II Topic Modeling 
 
    -   Readings
-    - [Brett, Megan R. “Topic Modeling: A Basic Introduction.” Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/)
-    - [Meeks, Elijah and Scott Weingart. “The Digital Humanities Contribution to Topic Modeling.” Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/)
-    - [Topic Modeling Martha Ballard’s Diary – Introduction and The Series (Read all three parts.)](http://www.cameronblevins.org/martha-ballards-diary/)
-    - [Goldstone, Andrew and Ted Underwood. “What Can Topic Models of PMLA Teach Us About the History of Literary Scholarship?” Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/what-can-topic-models-of-pmla-teach-us-by-ted-underwood-and-andrew-goldstone/) 
-    -  Explore [Mining The Dispatch.](http://dsl.richmond.edu/dispatch/), [Signs at 40](http://signsat40.signsjournal.org/) and [Vogue]() NEED VOGUE URL 
+        - [Brett, Megan R. “Topic Modeling: A Basic Introduction.” Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/)
+        - [Meeks, Elijah and Scott Weingart. “The Digital Humanities Contribution to Topic Modeling.” Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/)
+        - [Topic Modeling Martha Ballard’s Diary – Introduction and The Series (Read all three parts.)](http://www.cameronblevins.org/martha-ballards-diary/)
+        - [Goldstone, Andrew and Ted Underwood. “What Can Topic Models of PMLA Teach Us About the History of Literary Scholarship?” Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/what-can-topic-models-of-pmla-teach-us-by-ted-underwood-and-andrew-goldstone/) 
+        -  Explore [Mining The Dispatch.](http://dsl.richmond.edu/dispatch/), [Signs at 40](http://signsat40.signsjournal.org/) and [Vogue](http://dh.library.yale.edu/projects/vogue/)
 
      - Lab: Text Analysis with R
 
 - 2018-09-17  Text Analysis III NLP
      
     - Readings: 
-        - NLP Reading TBA 
+        - [Underwood, et al. "The Transformation of Gender in English-Language Fiction" Cultural Analytics](http://culturalanalytics.org/2018/02/the-transformation-of-gender-in-english-language-fiction/) 
         - [Robinson, David. "Text analysis of Trump's tweets confirms he writes only the (angrier) Android half". Variance Explained.(Blog).](http://varianceexplained.org/r/trump-tweets/)
         - [Gamerman, Ellen. “Data Miners Dig for Answers About Harper Lee, Truman Capote and ‘Go Set a Watchman.” Wall Street Journal. July 15, 2015.](http://blogs.wsj.com/speakeasy/2015/07/15/go-set-a-watchman-harper-lee-truman-capote/)
 
