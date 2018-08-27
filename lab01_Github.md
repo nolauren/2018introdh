@@ -1,7 +1,7 @@
 # GitHub and Markdown
 
 ## Github 
-- What is Github? Git is a version control system developed by Linus Trivolds. When developers create something (an app, for example), they make constant changes to the code, releasing new versions up to and after the first official (non-beta) release. GitHub is a gathering place for version control. 
+- What is Github? Git is a version control system developed by Linus Torvalds. When developers create something (an app, for example), they make constant changes to the code, releasing new versions up to and after the first official (non-beta) release. GitHub is a gathering place for version control. 
 - What use GitHub?
 	- Open Source
 	- Popular project management tool for computational/ programming work.
