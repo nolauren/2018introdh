@@ -2,7 +2,7 @@
 
 **AMST 298/ RHCS 279 / WGSS 257 / WGKP : Introduction to Digital Humanities**
 
-Fall 2018 | Monday 3:00-5:40 | Gottwald
+Fall 2018 | Monday 3:00-5:40 | Gottwald A201
 
 ------------------------------ 
 
