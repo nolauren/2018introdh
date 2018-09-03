@@ -93,7 +93,7 @@ The course will culminate in a final project.
    -   Readings
         - [Brett, Megan R. “Topic Modeling: A Basic Introduction.” Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/)
         - [Meeks, Elijah and Scott Weingart. “The Digital Humanities Contribution to Topic Modeling.” Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/)
-        - [Topic Modeling Martha Ballard’s Diary – Introduction and The Series (Read all three parts.)](http://www.cameronblevins.org/martha-ballards-diary/)
+        - [Text Analsysi of Martha Ballard’s Diary – Introduction and The Series (Read all three parts.)](http://www.cameronblevins.org/martha-ballards-diary/)
         - [Goldstone, Andrew and Ted Underwood. “What Can Topic Models of PMLA Teach Us About the History of Literary Scholarship?” Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/what-can-topic-models-of-pmla-teach-us-by-ted-underwood-and-andrew-goldstone/) 
         -  Explore [Mining The Dispatch.](http://dsl.richmond.edu/dispatch/), [Signs at 40](http://signsat40.signsjournal.org/) and [Vogue](http://dh.library.yale.edu/projects/vogue/)
 
