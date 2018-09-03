@@ -28,8 +28,9 @@ As with any medium, of course, there are also limitations to writing in Markdown
 
 ## Working with Markdown
 
-In markdown, please complete the following tasks using the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). 
+In markdown, please complete the following tasks using the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).  
 
+- Name your file "lab01_Github_YOURLASTNAME.md.
 - Create a section header called "Info" and below provide your name, hometown and preferred pronouns. 
 - Create a section header called "Questions", create a numbered list of questions that are italicized, and answer the following:
 	- What are you most nervous about this semester?
