@@ -82,7 +82,7 @@ The course will culminate in a final project.
         - Explore Projects. 
     - Lab: Introduction to GitHub and Markdown 
 
-- 2018-09-03  Text Analysis I - Distant Reading
+- 2018-09-03  Text Analysis I - Distant Reading and Macroanalysis
     - Readings:
         - [Underwood, Ted. "A Geneology of Distant Reading."](http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html)
         - Jockers, Matthew. [*Macroanalysis*. Foundation (3-35), Nationality (105-118) (UR Electronic Resource)](https://muse.jhu.edu/book/21978). Make sure to be on the UR server. 
