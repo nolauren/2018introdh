@@ -1,14 +1,16 @@
 # Text Analysis with Voyant 
 
-Let's define Text Analysis. Are you familiar with this method? How would you define it?
 
-For our corpus, we will explore the State of the Union addresses.  The State of the Union is delivered by the President of the United States annualy to a joint session of Congress. 
-It is often a space where the President reflects on current issues and outlines goals for the nation. 
-Therefore, it is a key document for understanding the ways the executive branch understands the current position 
-of the country and their priorities. While today it is delivered oraly by the President, 
+For our corpus, we will explore the State of the Union addresses. The State of the Union is delivered by the President of the United States annualy to a joint session of Congress. 
+
+- What scholarly questions can we ask of the SOTU?
+
+
+Let's take a look at the goals of the SOTU. It is often a space where the President reflects on current issues and outlines goals for the nation.  Therefore, it is a key document for understanding the ways the executive branch understands the current position  of the country and their priorities. While today it is delivered oraly by the President, 
 the State of the Union was initially a written document submitted to congress. 
 In this lab, we will use Voyant to identify issues and priorities.
 
+ 
 
 We will be using [Voyant](https://voyant-tools.org/):  a web-based text reading and analysis environment.
 
@@ -140,7 +142,7 @@ Let's take a look at the terms used by Washington and Obama.
 
 ##### Explore!
 
-Interested in looking at all of the State of the Union addresses? Here you [go](https://programminghistorian.org/assets/basic-text-processing-in-r/sotu_text.zip)! 
+Interested in looking at all of the State of the Union addresses? Let's take a look!  [File names with President and Year](https://github.com/nolauren/2018introdh/blob/master/data/sotu-year-prez.zip) and [File names with Year](https://github.com/nolauren/2018introdh/blob/master/data/sotu-year.zip).
 
 Want to look at films plots from Wikipedia? Here you [go](https://github.com/dmics/voyant/blob/master/txt.zip)! 
 - The "all" folder includes the plots from each film nominated for an Academy Award.
