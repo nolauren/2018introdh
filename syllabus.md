@@ -92,21 +92,20 @@ The course will culminate in a final project.
 
    -   Readings
         - [Brett, Megan R. “Topic Modeling: A Basic Introduction.” Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/)
+        - [Blei, David M. "Topic Modeling and Digital Humanities." Journal of Digital Humanities, Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/)
         - [Meeks, Elijah and Scott Weingart. “The Digital Humanities Contribution to Topic Modeling.” Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/)
-        - [Text Analsysi of Martha Ballard’s Diary – Introduction and The Series (Read all three parts.)](http://www.cameronblevins.org/martha-ballards-diary/)
-        - [Goldstone, Andrew and Ted Underwood. “What Can Topic Models of PMLA Teach Us About the History of Literary Scholarship?” Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/what-can-topic-models-of-pmla-teach-us-by-ted-underwood-and-andrew-goldstone/) 
-        -  Explore [Mining The Dispatch.](http://dsl.richmond.edu/dispatch/), [Signs at 40](http://signsat40.signsjournal.org/) and [Vogue](http://dh.library.yale.edu/projects/vogue/)
+        - [Text Analysis of Martha Ballard’s Diary – Introduction and The Series (Read all three parts.)](http://www.cameronblevins.org/martha-ballards-diary/)
+        -  Analyze the following projects: [Mining The Dispatch.](http://dsl.richmond.edu/dispatch/), [Signs at 40](http://signsat40.signsjournal.org/) and [Vogue](http://dh.library.yale.edu/projects/vogue/)
 
-     - Lab: Text Analysis with R
+     - Lab: Voyant / Text Analysis with R
 
 - 2018-09-17  Text Analysis III NLP
      
     - Readings: 
-        - [Underwood, et al. "The Transformation of Gender in English-Language Fiction" Cultural Analytics](http://culturalanalytics.org/2018/02/the-transformation-of-gender-in-english-language-fiction/) 
-        - [Robinson, David. "Text analysis of Trump's tweets confirms he writes only the (angrier) Android half". Variance Explained.(Blog).](http://varianceexplained.org/r/trump-tweets/)
-        - [Gamerman, Ellen. “Data Miners Dig for Answers About Harper Lee, Truman Capote and ‘Go Set a Watchman.” Wall Street Journal. July 15, 2015.](http://blogs.wsj.com/speakeasy/2015/07/15/go-set-a-watchman-harper-lee-truman-capote/)
+         - [Goldstone, Andrew and Ted Underwood. “What Can Topic Models of PMLA Teach Us About the History of Literary Scholarship?” Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/what-can-topic-models-of-pmla-teach-us-by-ted-underwood-and-andrew-goldstone/) 
+        - Come to class prepared to explain which Jstor journal you selected, the goal/scope of the journal, the number of years the journal has been publishing, and what kind of content (ex. research articles, book reviews, etc) that the journal publishes. 
 
-    - Lab: NLP with R
+    - Lab: Topic Modeling with R
 
   *2018-09-21 Text Analysis Assignment Due*
 
