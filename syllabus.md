@@ -94,7 +94,7 @@ The course will culminate in a final project.
         - [Brett, Megan R. “Topic Modeling: A Basic Introduction.” Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/)
         - [Blei, David M. "Topic Modeling and Digital Humanities." Journal of Digital Humanities, Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/)
         - [Meeks, Elijah and Scott Weingart. “The Digital Humanities Contribution to Topic Modeling.” Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/)
-        - [Text Analysis of Martha Ballard’s Diary – Introduction and The Series (Read all three parts.)](http://www.cameronblevins.org/martha-ballards-diary/)
+        - [Blevins, Cameron. Text Analysis of Martha Ballard’s Diary – Introduction and The Series (Read all three parts.)](http://www.cameronblevins.org/martha-ballards-diary/)
         -  Analyze the following projects: [Mining The Dispatch.](http://dsl.richmond.edu/dispatch/), [Signs at 40](http://signsat40.signsjournal.org/) and [Vogue](http://dh.library.yale.edu/projects/vogue/)
 
      - Lab: Voyant / Text Analysis with R
@@ -113,7 +113,8 @@ The course will culminate in a final project.
 
     - Readings:
         - [Rosenberg, Daniel. “Data before the Fact.” 2013.](http://static1.1.sqspcdn.com/static/f/1133095/23310656/1376447540493/Rosenburg_RawData.pdf)
-        - boyd, danah and Kate Crawford. ["Six Provocations for Big Data".]() LOAD ON GITHUB  and ADD LINK
+        - boyd, danah and Kate Crawford. ["Six Provocations for Big Data".](https://github.com/nolauren/2018introdh/blob/master/readings/Six%20Provocations%20for%20Big%20Data.pdf) 
+        - Drucker, Joanna. Short Excerpt TBA.
         - [Schöch, Christof. “Big? Smart? Clean? Messy? Data in the Humanities.” Journal of Digital Humanities. Summer 2013.](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/)
 
     - Lab: Building a Data Set
