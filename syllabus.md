@@ -54,8 +54,8 @@ The course will culminate in a final project.
 | 2018-09-03 |  Text Analysis I | 
 | 2018-09-10 |  Text Analysis II | 
 | 2018-09-17 |  Text Analysis III  | 
-| 2018-09-21 |  Text Analysis Assignment Due |  
 | 2018-09-24 |  Data I  | 
+| 2018-09-28 |  Text Analysis Assignment Due |  
 | 2018-10-01 |  Data II | 
 | 2018-10-08 |  Network I  | 
 | 2018-10-12 |  Data Assignment Due | 
@@ -107,7 +107,6 @@ The course will culminate in a final project.
 
     - Lab: Topic Modeling with R
 
-  *2018-09-21 Text Analysis Assignment Due*
 
 
 - 2018-09-24  Data I - Tidy Data / Movie Data Set
@@ -118,7 +117,8 @@ The course will culminate in a final project.
         - [Schöch, Christof. “Big? Smart? Clean? Messy? Data in the Humanities.” Journal of Digital Humanities. Summer 2013.](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/)
 
     - Lab: Building a Data Set
-    
+ 
+ *2018-09-28 Text Analysis Assignment Due* 
 
 
 - 2018-10-01  Data II - Data Dictionary / Work on Their Own
