@@ -3,28 +3,28 @@
 ## Corpus / Data
 
 ### Jstor
-[JStor Data for Research](http://about.jstor.org/service/data-for-research) provides machine-readable data from JStor, 
+[JStor Data for Research (DFR)](http://about.jstor.org/service/data-for-research) provides machine-readable data from JStor, 
 a digital library of academic journals, books, and primary sources.
 
 
 ### Downloading Data
 
 It takes several days for Jstor to send the data. Make sure to make this request immediately. 
-Visit [here](http://dfr.jstor.org). Set up an account and select your journal. 
+The main page for Jstor DFR is [here](http://dfr.jstor.org).  Set up an account [here](https://www.jstor.org/register?redirectUri=/dfr/results) and select your data [here](https://www.jstor.org/dfr/results). 
 One you have selected a journal, make sure there are at least 500 records to use; otherwise, 
 we can't use topic modeling as there aren't enough records. There are two more categories to consider:
 
 - Article Type: Pick the kind of articles you'd like to analyze. 
 For example, one might only be interested in research articles or just book reviews. You can also do them all! 
 
-- Year of Publication: You might consider just looking at a journal during a specific period. For example, did American Quarterly (the journal of  the field of American Studies) look at specific topics during the 1960s in the middle of the U.S. social movements?
+- Year of Publication: You might consider just looking at a journal during a specific period. For example, did *American Quarterly* (the journal of  the field of American Studies) look at specific topics during the 1960s in the middle of the U.S. social movements?
 
 
-Select Data Type: "Citations Only" and "Word Counts" and Output Format: "CSV".  
+Select All of the Data Types.  
 
-If the data has more than 1000 records, there are two options. 
+If the data has more than 25,000 documents, there are two options. 
 You can make several requests to capture all the data or you need to select a subset. 
-If you do not, you will get a random generated subset from JStor. Do not use a random subset. 
+If you do not, you will get a random generated subset from JStor. Do *not* use a random subset. 
 
 ----------
 ## 
