@@ -28,6 +28,26 @@ One you have the .pkg (macOS) or .exe (Windows) file, install this on your compu
 
 ### Step 2: R Studio
 
+The files we just downloaded are the core R language files doing all the hard work of processing data. 
+Next, we’ll install a helpful GUI frontend that make calling R easier.
+
+![](https://statsmaths.github.io/stat209-f18/assets/img/rstudio01.jpeg)
+
+Scroll down to the DOWNLOAD RSTUDIO DESKTOP button and click on it.
+
+![](https://statsmaths.github.io/stat209-f18/assets/img/rstudio02.jpeg)
+
+Scroll down again to the Installers for Supported Platforms. The Windows link gives you an exe:
+
+![](https://statsmaths.github.io/stat209-f18/assets/img/rstudio03.jpeg)
+
+
+And the macOS link gives a dmg:
+![](https://statsmaths.github.io/stat209-f18/assets/img/rstudio04.jpeg)
+
+Now, install R or RStudio as you would any other program. It should link automatically to the version of R you just installed.
+
+Mac users: make sure you drag the icon into the Applications folder.
 
 
 
