@@ -13,7 +13,8 @@ Office Hours: MW 11:45-12:45
 
 ----------------------------------------------------
 
-Github: https://classroom.github.com/classrooms/22781053-introduction-to-dh
+Github:  https://nolauren.github.io/2018introdh/
+Your Repository: https://github.com/introdh/intro-dh2018-YOURUSENAME
 
 ## Course Description: 
 Digital Humanities or “DH” brings the application of computing to
