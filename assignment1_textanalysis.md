@@ -1,5 +1,15 @@
 # Assignment 1 - Topic Modeling 
 
+By analyzing academic journals, we can see what scholars have been interested in studying over time. A prime example is the work of Goldstone and Underwood on the PMLA, which we are reading for class. The goal of this assignment to apply a particular text analysis method - topic modeling - to provide a "distant reading"/ "macroanalysis" of a scholarly journal.  The assingment has two components: (1) topic modeling interactive visualizaiton and (2) a reflection piece on the method and what you can learn about the journal using text analysis.  The final assignment should be a markdown file in your repository: https://github.com/introdh/intro-dh2018-YOURUSERNAME 
+
+Each person must do a different academic journal. Please email me once you have selected a journal. I will upate the list here: 
+
+| Name | Journal |
+|-------|---------|
+| Dr. Tilton | American Quaterly | 
+
+A note about collaboration:   You may work with each to help get the code working and to build your interactive visualization. You MAY NOT work with each other on the reflection. This should be your interpretation of the course readings and discussions as applied to your particular scholarly journal. 
+
 ## Corpus / Data
 
 ### Jstor
@@ -39,7 +49,7 @@ The final assignment is comprised of two components:
 
 ### Topic Modeling Visualization
 
-Using an adapted version of the Signs@40 interface, build a site that visualizes your corpus. 
+Using an adapted version of the [Signs@40 interface](http://signsat40.signsjournal.org/topic-model/), build a site that visualizes your corpus. 
 The corpus is an academic journal of your choice. The data should come from JSTOR's Data For Research (info below). 
 
 The information for how to build the interface is available [here](https://github.com/statsmaths/dh-topic-models). Make sure to give descriptive names for the topics. 
@@ -62,10 +72,9 @@ It should  also address the following questions:
 
 More details:
 
-
 - Citations: Use a modified format since citations will be drawn from course readings. Cite relevant readings using in-text/ parenthetical citations: (author, publication, date). Ex. (Blevins, personal blog, 09-09-2009) or (Goldstone and Underwood, JDH, 2012). 
 
-- Save as "assignment2_YOURLASTNAME.md" in your repository. 
+- Save as "assignment2_YOURLASTNAME.md" in your repository (https://github.com/introdh/intro-dh2018-YOURUSENAME). 
 
 - Grading: [Rubric](https://github.com/nolauren/dh2017/blob/master/assignment2_rubric.pdf)
 
