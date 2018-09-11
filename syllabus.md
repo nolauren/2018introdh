@@ -103,7 +103,7 @@ The course will culminate in a final project.
      
     - Readings: 
          - [Goldstone, Andrew and Ted Underwood. “What Can Topic Models of PMLA Teach Us About the History of Literary Scholarship?” Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/what-can-topic-models-of-pmla-teach-us-by-ted-underwood-and-andrew-goldstone/) 
-        - Come to class prepared to explain which Jstor journal you selected, the goal/scope of the journal, the number of years the journal has been publishing, and what kind of content (ex. research articles, book reviews, etc) that the journal publishes. 
+        - Come to class prepared to explain which Jstor journal you selected, the goal/scope of the journal, the number of years the journal has been publishing, and what kind of content (ex. research articles, book reviews, etc) that the journal publishes. To select your Jstor data, go [here](https://github.com/nolauren/2018introdh/blob/master/assignment1_textanalysis.md).
 
     - Lab: Topic Modeling with R
 
