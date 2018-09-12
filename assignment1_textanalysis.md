@@ -8,7 +8,8 @@ Each person must do a different academic journal. Please email me once you have 
 |-------|---------|
 | Dr. Tilton | American Quaterly | 
 | Amanda Corbosiero | Discourse Studies | 
-| Kobi White | Feminist Studies | 
+| Kobi White | Feminist Studies |  
+| Emily Song |  The Journal of Criminal Law and Criminology|
 
 A note about collaboration:   You may work with each to help get the code working and to build your interactive visualization. You MAY NOT work with each other on the reflection. This should be your interpretation of the course readings and discussions as applied to your particular scholarly journal. 
 
