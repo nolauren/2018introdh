@@ -14,6 +14,7 @@ Each person must do a different academic journal. Please email me once you have 
 | Kylie Britt | The Slavivonic & Eastern European Review | 
 | Matt Fichera |  Journal of Financial Education | 
 | Alexis Williams | Gender and Development |
+| Luke Malcynsky | The Annals of the American Academy of Political and Social Science | 
 
 
 
