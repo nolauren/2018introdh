@@ -13,6 +13,7 @@ Each person must do a different academic journal. Please email me once you have 
 | Kristi Mukk | The American Archivist | 
 | Kylie Britt | The Slavivonic & Eastern European Review | 
 | Matt Fichera |  Journal of Financial Education | 
+| Alexis Williams | Gender and Development |
 
 
 
