@@ -24,7 +24,7 @@ a digital library of academic journals, books, and primary sources.
 ### Downloading Data
 
 It takes several days for Jstor to send the data. Make sure to make this request immediately. 
-The main page for Jstor DFR is [here](http://dfr.jstor.org).  Set up an account [here](https://www.jstor.org/register?redirectUri=/dfr/results) and select your data [here](https://www.jstor.org/dfr/results). 
+The main page for Jstor DFR is [here](http://dfr.jstor.org).  Set up an account [here](https://www.jstor.org/register?redirectUri=/dfr/results) and select your data [here](https://www.jstor.org/dfr/results).  To select a particular journal, [here are the instructions](https://www.jstor.org/dfr/about/creating-datasets?loggedin=true&facet_journal=am91cm5hbA%3D%3D&ed=&searchType=facetSearch&Query=american+quarterly&page=1&sd=). 
 One you have selected a journal, make sure there are at least 500 records to use; otherwise, 
 we can't use topic modeling as there aren't enough records. There are two more categories to consider:
 
