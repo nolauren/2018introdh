@@ -11,6 +11,8 @@ Each person must do a different academic journal. Please email me once you have 
 | Kobi White | Feminist Studies |  
 | Emily Song |  The Journal of Criminal Law and Criminology|
 | Kristi Mukk | The American Archivist | 
+| Kylie Britt | The Slavivonic & Eastern European Review | 
+
 
 A note about collaboration:   You may work with each to help get the code working and to build your interactive visualization. You MAY NOT work with each other on the reflection. This should be your interpretation of the course readings and discussions as applied to your particular scholarly journal. 
 
@@ -67,6 +69,7 @@ The 500-1500 word response should explain the data set, the initial findings,
 and how one would go about further exploring the data set/ findings/ arguments. 
 It should  also address the following questions:
 
+- What is the scope of the journal?
 - What question(s) are you trying to answer?
 - Which data did you select for the corpus? Make sure to specificy the kind of data and periodization. 
 - Why the number of topics? 
