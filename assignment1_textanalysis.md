@@ -16,6 +16,7 @@ Each person must do a different academic journal. Please email me once you have 
 | Alexis Williams | Gender and Development |
 | Luke Malcynsky | The Annals of the American Academy of Political and Social Science | 
 | Sal Girma | Afro-Hispanic Review |
+| Raven Baugh | The American Poetry Review| 
 
 
 
