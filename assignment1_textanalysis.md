@@ -89,7 +89,7 @@ More details:
 
 - Save as "assignment2_YOURLASTNAME.md" in your repository (https://github.com/introdh/intro-dh2018-YOURUSENAME). 
 
-- Grading: [Rubric](https://github.com/nolauren/dh2017/blob/master/assignment2_rubric.pdf)
+- Grading: [Rubric](https://github.com/nolauren/2018introdh/blob/master/assignment1_rubric.pdf)
 
 ------------------------------------------------------------------------------------------------
 
