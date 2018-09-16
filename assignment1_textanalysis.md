@@ -77,7 +77,7 @@ It should  also address the following questions:
 
 - What is the scope of the journal?
 - What question(s) are you trying to answer?
-- Which data did you select for the corpus? Make sure to specificy the kind of data and periodization. 
+- Which data did you select for the corpus? Make sure to specify the kind of data and periodization. 
 - Why the number of topics? 
 - What are the initial findings and/or possible arguments? In other words, what do these topics tell us? Certain patterns? Trends?
 - Drawing on the readings, what are the possibilities and limitations of text analysis and topic modeling?
