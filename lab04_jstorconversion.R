@@ -18,6 +18,12 @@
 #'
 #'        run_mallet_preprocess(".")
 #'
+#' Make sure your data is on the Desktop. 
+#' In RStudio go to Session -> Set Working Directory -> Choose Directory -> Desktop
+#'
+#'
+#'
+#'
 #' @export
 run_mallet_preprocess <- function(loc) {
 	this <- getwd()
