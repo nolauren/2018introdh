@@ -17,6 +17,8 @@ Each person must do a different academic journal. Please email me once you have 
 | Luke Malcynsky | The Annals of the American Academy of Political and Social Science | 
 | Sal Girma | Afro-Hispanic Review |
 | Raven Baugh | The American Poetry Review| 
+| Kayla Corbin | American Music Journal |
+| Jordan Cannady | The American Sociologist | 
 
 
 
