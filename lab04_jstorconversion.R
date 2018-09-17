@@ -68,3 +68,8 @@ run_mallet_preprocess <- function(loc) {
 	  if (i %% 100 == 0) cat(sprintf("Done with %05d / %05d in %s\n", i, length(these), loc))
 	}
 }
+
+		    
+		      
+#' Now that we have finished our files, let's run the 
+#' topic models and build our site: https://github.com/statsmaths/dh-topic-models/blob/master/README.md .
