@@ -113,10 +113,11 @@ The course will culminate in a final project.
 
 - 2018-09-24  Data I - Tidy Data / Movie Data Set
 
+Due to the tornado, the readings below will be for 10-01. 
     - Readings:
         - [Rosenberg, Daniel. “Data before the Fact.” 2013.](http://static1.1.sqspcdn.com/static/f/1133095/23310656/1376447540493/Rosenburg_RawData.pdf)
         - boyd, danah and Kate Crawford. ["Six Provocations for Big Data".](https://github.com/nolauren/2018introdh/blob/master/readings/Six%20Provocations%20for%20Big%20Data.pdf) 
-        - Drucker, Joanna. Short Excerpt TBA.
+        - Drucker, Joanna. [Short Excerpt](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html): Read Abstract and Paragraph 3.
         - [Schöch, Christof. “Big? Smart? Clean? Messy? Data in the Humanities.” Journal of Digital Humanities. Summer 2013.](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/)
 
     - Lab: Building a Data Set
