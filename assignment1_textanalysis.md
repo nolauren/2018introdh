@@ -37,14 +37,11 @@ It takes several days for Jstor to send the data. Make sure to make this request
 The main page for Jstor DFR is [here](http://dfr.jstor.org).  Set up an account [here](https://www.jstor.org/register?redirectUri=/dfr/results) and select your data [here](https://www.jstor.org/dfr/results).  To select a particular journal, [here are the instructions](https://www.jstor.org/dfr/about/creating-datasets?loggedin=true&facet_journal=am91cm5hbA%3D%3D&ed=&searchType=facetSearch&Query=american+quarterly&page=1&sd=). 
 One you have selected a journal, make sure there are at least 500 records to use; otherwise, 
 we can't use topic modeling as there aren't enough records. There are two more categories to consider:
-
-- Article Type: Pick the kind of articles you'd like to analyze. 
-For example, one might only be interested in research articles or just book reviews. You can also do them all! 
-
+ 
 - Year of Publication: You might consider just looking at a journal during a specific period. For example, did *American Quarterly* (the journal of  the field of American Studies) look at specific topics during the 1960s in the middle of the U.S. social movements?
 
 
-Select All of the Data Types.  
+Select All of the Data Types including XML and three types of N-Grams. 
 
 If the data has more than 25,000 documents, there are two options. 
 You can make several requests to capture all the data or you need to select a subset. 
