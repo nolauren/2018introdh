@@ -129,7 +129,7 @@ The course will culminate in a final project.
 - 2018-10-01  Data II - Data Dictionary / Work on Their Own
     
     -  Readings:    
-        - [Wickham, Hadley. “Tidy Data.” Journal of Statistical Software. Vol 59. Issue 10. August 2014.](http://vita.had.co.nz/papers/tidy-data.pdf)  
+        - [Wickham, Hadley. “Tidy Data.” Journal of Statistical Software. Vol 59. Issue 10. August 2014.](http://vita.had.co.nz/papers/tidy-data.pdf), p 1- 13.   
     
     - Lab: Tidying and Documenting Data 
     
