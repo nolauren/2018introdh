@@ -56,7 +56,7 @@ The course will culminate in a final project.
 | 2018-09-10 |  Text Analysis II | 
 | 2018-09-17 |  Text Analysis III  | 
 | 2018-09-24 |  Data I  | 
-| 2018-09-28 |  Text Analysis Assignment Due |  
+| 2018-09-28 |  Text Analysis Assignment Due (Will be moved due to Tornado)|  
 | 2018-10-01 |  Data II | 
 | 2018-10-08 |  Network I  | 
 | 2018-10-12 |  Data Assignment Due | 
@@ -123,7 +123,7 @@ The course will culminate in a final project.
 
     - Lab: Building a Data Set
  
- *2018-09-28 Text Analysis Assignment Due* 
+ *2018-09-28 Text Analysis Assignment Due* (Will be moved due to Tornado.)
 
 
 - 2018-10-01  Data II - Data Dictionary / Work on Their Own
