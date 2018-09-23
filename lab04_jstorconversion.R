@@ -8,18 +8,9 @@
 #' @param loc     location where algorithm will be run
 #'
 #' @author  Lauren C. Tilton <ltilton@richmond.edu>
-#' @examples
 #'
-#' # if you want to automate over every folder in the directory:
-#' 
-#'       sapply(dir(), run_mallet_preprocess)
-#'
-#' # if want to run directly in jstor file:
-#'
-#'        run_mallet_preprocess(".")
-#'
-#' Make sure your data is on the Desktop. 
-#' In RStudio go to Session -> Set Working Directory -> Choose Directory -> Desktop
+#' Make sure your data is on the Desktop. Select the proper location. 
+#' In RStudio go to Session -> Set Working Directory -> Choose Directory -> Desktop -> 'NAME-OF-FOLDER-WITH-DATA'
 #'
 #'
 #'
@@ -70,6 +61,9 @@ run_mallet_preprocess <- function(loc) {
 }
 
 		    
-		      
+#' # now run the following:
+#'
+       run_mallet_preprocess(".")
+#'		      
 #' Now that we have finished our files, let's run the 
 #' topic models and build our site: https://github.com/statsmaths/dh-topic-models/blob/master/README.md .
