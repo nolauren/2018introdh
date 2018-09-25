@@ -55,7 +55,18 @@ Make sure the folders have the proper materials. For example:
 
 ![](https://github.com/nolauren/2018introdh/blob/master/img/Screen%20Shot%202018-09-25%20at%208.38.41%20AM.png)
 
+
+
+## Converting Data
+
+One challenge is that the data Jstor sends us needs to be turned into a "bag of words" in order to do topic modeling.  The way Jstor gives us the data looks like this:
+
 ![](https://github.com/nolauren/2018introdh/blob/master/img/Screen%20Shot%202018-09-25%20at%208.39.03%20AM.png)
+
+
+So, we need to take each word and write it out according to the corresponding number. For example, "humanism 9" needs to become "humanism humanism humanism humanism humanism humanism humanism humanism humanism humanism". To do this, following the instructions in our [JStor R Conversion Lab](https://github.com/nolauren/2018introdh/blob/master/lab04_jstorconversion.R). 
+
+
 
 ----------
 ## 
