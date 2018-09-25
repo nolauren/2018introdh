@@ -43,10 +43,6 @@ we can't use topic modeling as there aren't enough records. There are two more c
 
 Select All of the Data Types including XML and three types of N-Grams. 
 
-If the data has more than 25,000 documents, there are two options. 
-You can make several requests to capture all the data or you need to select a subset. 
-If you do not, you will get a random generated subset from JStor. Do *not* use a random subset. 
-
 Make sure to download the data. It should include four folders:
 
 ![](https://github.com/nolauren/2018introdh/blob/master/img/Screen%20Shot%202018-09-25%20at%208.38.29%20AM.png)
@@ -55,18 +51,22 @@ Make sure the folders have the proper materials. For example:
 
 ![](https://github.com/nolauren/2018introdh/blob/master/img/Screen%20Shot%202018-09-25%20at%208.38.41%20AM.png)
 
+What are you seeing in these folders?
 
+Each file corresponds to an article in your journal.  For each article, you have an XML file, ngram1, ngram2, and ngram3. For example, journal-article-10.2307_23317634.xml, journal-article-10.2307_23317634-ngram1.txt, journal-article-10.2307_23317634-ngram2.txt and journal-article-10.2307_23317634-ngram3.txt are in their respective folders. These are the same article and we know this because of the identifier "10.2307_23317634".  We will only be using the XML files (which describe the articles including Article Title, Author, and Publication) and ngram1 in this assignment. 
 
 ## Converting Data
 
-One challenge is that the data Jstor sends us needs to be turned into a "bag of words" in order to do topic modeling.  The way Jstor gives us the data looks like this:
+One challenge is that the data Jstor sends us needs to be turned into a "bag of words" in order to do topic modeling. Topic modeling looks at word co-occurance across documents (in our case articles), so the exact order in the document (i.e. article) does not matter.  The way Jstor gives us the data looks like this:
 
 ![](https://github.com/nolauren/2018introdh/blob/master/img/Screen%20Shot%202018-09-25%20at%208.39.03%20AM.png)
 
 
-So, we need to take each word and write it out according to the corresponding number. For example, "humanism 9" needs to become "humanism humanism humanism humanism humanism humanism humanism humanism humanism humanism". To do this, following the instructions in our [JStor R Conversion Lab](https://github.com/nolauren/2018introdh/blob/master/lab04_jstorconversion.R). 
+So, we need to take each word in our list and write it out according to the corresponding number. For example, "humanism 9" needs to become "humanism humanism humanism humanism humanism humanism humanism humanism humanism humanism". To do this, following the instructions in our [JStor R Conversion Lab](https://github.com/nolauren/2018introdh/blob/master/lab04_jstorconversion.R). 
 
+Once you done with the Jstor R Conversation Lab, you should have four new folders (all_txt, all_xml, all_topicmodel, data). Check the files in all_topicmodel to make sure the words are unlisted. For example, "dr 16" should now be  "dr" written out 16 times. 
 
+![](https://github.com/nolauren/2018introdh/blob/master/img/Screen%20Shot%202018-09-25%20at%208.48.27%20AM.png)
 
 ----------
 ## 
