@@ -119,7 +119,7 @@ See email. Adjusted due to Tornado.
 
 See email. 
  
- *2018-10-06 Text Analysis Assignment Due* (Will be moved due to Tornado.)
+ *2018-10-06 Text Analysis Assignment Due* (Moved due to Tornado.)
 
 - 2018-10-08  Network I 
         
