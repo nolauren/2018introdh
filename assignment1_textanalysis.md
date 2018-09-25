@@ -47,6 +47,15 @@ If the data has more than 25,000 documents, there are two options.
 You can make several requests to capture all the data or you need to select a subset. 
 If you do not, you will get a random generated subset from JStor. Do *not* use a random subset. 
 
+Make sure to download the data. It should include four folders:
+
+![](https://github.com/nolauren/2018introdh/blob/master/img/Screen%20Shot%202018-09-25%20at%208.38.29%20AM.png)
+
+Make sure the folders have the proper materials. For example:
+
+![](https://github.com/nolauren/2018introdh/blob/master/img/Screen%20Shot%202018-09-25%20at%208.38.41%20AM.png)
+
+
 ----------
 ## 
 
