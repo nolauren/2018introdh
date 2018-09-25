@@ -55,11 +55,10 @@ The course will culminate in a final project.
 | 2018-09-03 |  Text Analysis I | 
 | 2018-09-10 |  Text Analysis II | 
 | 2018-09-17 |  Text Analysis III  | 
-| 2018-09-24 |  Data I  | 
-| 2018-09-28 |  Text Analysis Assignment Due (Will be moved due to Tornado)|  
-| 2018-10-01 |  Data II | 
+| 2018-09-24 |  Text Analysis IV  | 
+| 2018-10-01 | Text Analysis V | 
+| 2018-10-06 |  Text Analysis Assignment Due|  
 | 2018-10-08 |  Network I  | 
-| 2018-10-12 |  Data Assignment Due | 
 | 2018-10-15 |  Fall Break | 
 | 2018-10-22 |  Network II | 
 | 2018-10-29 |  Videographic Criticism | 
@@ -100,7 +99,7 @@ The course will culminate in a final project.
 
      - Lab: Voyant / Text Analysis with R
 
-- 2018-09-17  Text Analysis III NLP
+- 2018-09-17  Text Analysis III 
      
     - Readings: 
          - [Goldstone, Andrew and Ted Underwood. “What Can Topic Models of PMLA Teach Us About the History of Literary Scholarship?” Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/what-can-topic-models-of-pmla-teach-us-by-ted-underwood-and-andrew-goldstone/) 
@@ -110,38 +109,23 @@ The course will culminate in a final project.
     - Lab: Topic Modeling with R
 
 
-
 **Due to the tornado, the readings below will be for 10-01.** For 09-24, we will discuss Goldstone and Underwood, Signs@40 and Assignment 1. Please come to class with your data including metadata and ngrams. 
 
-- 2018-09-24  Data I - Tidy Data / Movie Data Set
+- 2018-09-24  Text Analysis IV
 
-    - Readings:
-        - [Rosenberg, Daniel. “Data before the Fact.” 2013.](http://static1.1.sqspcdn.com/static/f/1133095/23310656/1376447540493/Rosenburg_RawData.pdf)
-         - Drucker, Joanna. [Short Excerpt](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html): Read Abstract and Paragraph 3.
-        - boyd, danah and Kate Crawford. ["Six Provocations for Big Data".](https://github.com/nolauren/2018introdh/blob/master/readings/Six%20Provocations%20for%20Big%20Data.pdf) 
-        - [Schöch, Christof. “Big? Smart? Clean? Messy? Data in the Humanities.” Journal of Digital Humanities. Summer 2013.](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/)
+See email. Adjusted due to Tornado. 
 
-    - Lab: Building a Data Set
+- 2018-10-01  Text Analysis V
+
+See email. 
  
- *2018-09-28 Text Analysis Assignment Due* (Will be moved due to Tornado.)
-
-
-- 2018-10-01  Data II - Data Dictionary / Work on Their Own
-    
-    -  Readings:    
-        - [Wickham, Hadley. “Tidy Data.” Journal of Statistical Software. Vol 59. Issue 10. August 2014.](http://vita.had.co.nz/papers/tidy-data.pdf), p 1- 13.   
-    
-    - Lab: Tidying and Documenting Data 
-    
-    - Assignment Prep: Come to class with ideas for a data set you would like to create and the question(s) you would like the data set to help address. 
-
+ *2018-10-06 Text Analysis Assignment Due* (Will be moved due to Tornado.)
 
 - 2018-10-08  Network I 
         
      - Readings:   
         -   Newman, Mark. Networks: An Introduction. Chapter 1: Introduction. (To be provided.)
         - [Weingart, Scott. “Demystifying Networks, Part I & II.” Journal of Digital Humanities. Vol 1 No. 1. Winter 2011.](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart)
-        - Network Article TBA
         -  Explore [Linked Jazz](https://linkedjazz.org/), [Signs at 40](http://signsat40.signsjournal.org/cocitation/), and  [Wikipedia](xefer.com/WIKIPEDIA)
     
     - Lab: Networks in R
@@ -155,17 +139,17 @@ The course will culminate in a final project.
     -  Readings:
         -  [Weingart, Scott. “Topic Modeling and Network Analysis.”](http://www.scottbot.net/HIAL/index.html@p=221.html)
         -  [Weingart, Scott. “Contextualizing networks with maps.”](http://www.scottbot.net/HIAL/index.html@p=1942.html)
-        -  Explore [the grants](https://securegrants.neh.gov/publicquery/main.aspx?q=1&a=0&n=0&o=0&ot=0&k=0&f=0&s=0&cd=0&p=0&d=1&dv=12&y=0&prd=0&cov=0&prz=0&wp=1&ob=year&or=DESC) in this database. Select 1 to close analyze. Come to class prepared to answer the following questions: (1) What is the goal of the grant? (2) What scholarly question(s) or problem(s) is the grant trying to address? (3) Are there other projeects that are similar? Working with (4) Who is involved in the grant? (5) What is the structure of the grant?
+        -   Network Article TBA
  
     - Lab: Networks in R
 
     - Assignment Prep: Come to class with ideas for a network you would like to create and the question(s)/ area of inquiry you would like the network to help address. 
 
 
-- 2018-10-29  Videographic Criticism
+- 2018-10-29  Final Assignment / NEH Grant
     - Readings: 
-        - [Monaghan, Peter. "Has the Video Essay Arrived?"](http://www.movingimagearchivenews.org/has-the-video-essay-arrived/)
-        - Others: TBA
+        -  Explore [the grants](https://securegrants.neh.gov/publicquery/main.aspx?q=1&a=0&n=0&o=0&ot=0&k=0&f=0&s=0&cd=0&p=0&d=1&dv=12&y=0&prd=0&cov=0&prz=0&wp=1&ob=year&or=DESC) in this database. Select 1 to close analyze. Come to class prepared to answer the following questions: (1) What is the goal of the grant? (2) What scholarly question(s) or problem(s) is the grant trying to address? (3) Are there other projeects that are similar? Working with (4) Who is involved in the grant? (5) What is the structure of the grant?
+        - Talk: Lincoln Mullen 
 
 *2018-11-2: Network Assignment Due*
 
