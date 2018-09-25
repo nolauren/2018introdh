@@ -55,6 +55,7 @@ Make sure the folders have the proper materials. For example:
 
 ![](https://github.com/nolauren/2018introdh/blob/master/img/Screen%20Shot%202018-09-25%20at%208.38.41%20AM.png)
 
+![](https://github.com/nolauren/2018introdh/blob/master/img/Screen%20Shot%202018-09-25%20at%208.39.03%20AM.png)
 
 ----------
 ## 
