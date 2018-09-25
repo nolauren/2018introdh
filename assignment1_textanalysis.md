@@ -11,7 +11,7 @@ Each person must do a different academic journal. Please email me once you have 
 | Kobi White | Journal of African American Studies|  | 
 | Emily Song |  The Journal of Criminal Law and Criminology| |
 | Kristi Mukk | The American Archivist | https://kristi-m.github.io/dh-topic-models/| 
-| Kylie Britt | The Slavivonic & Eastern European Review |  |
+| Kylie Britt | The Slavivonic & Eastern European Review | https://kyliebritt.github.io/dh-topic-models/ |
 | Matt Fichera |  Journal of Financial Education |  |
 | Alexis Williams | Gender and Development | |
 | Luke Malcynsky | The Annals of the American Academy of Political and Social Science |  |
