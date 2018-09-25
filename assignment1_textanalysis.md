@@ -68,6 +68,7 @@ Once you done with the Jstor R Conversation Lab, you should have four new folder
 
 ![](https://github.com/nolauren/2018introdh/blob/master/img/Screen%20Shot%202018-09-25%20at%208.48.27%20AM.png)
 
+Common Issue: R says that you do not have a package. No problem! Just install if by typing install.packages("nameofpackage").
 
 ### Upload Data to Box
 Because Box does not handle little files very well, you need to ZIP your data. You can do this by right clicking on your folder with your data.  On a mac, select "Compress 'NAMEOFFILE'.  On a PC, select 'ZIP NAMEOFFILE'. Rename it "lastname_data". 
