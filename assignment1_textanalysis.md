@@ -68,6 +68,13 @@ Once you done with the Jstor R Conversation Lab, you should have four new folder
 
 ![](https://github.com/nolauren/2018introdh/blob/master/img/Screen%20Shot%202018-09-25%20at%208.48.27%20AM.png)
 
+
+### Upload Data to Box
+Because Box does not handle little files very well, you need to ZIP your data. You can do this by right clicking on your folder with your data.  On a mac, select "Compress 'NAMEOFFILE'.  On a PC, select 'ZIP NAMEOFFILE'. Rename it "lastname_data". 
+
+Go to [our box folder](https://richmond.box.com/s/av74idfgrnlwzldd5oop0yi5c0ulalfo) and upload the compressed file.  
+This should be on Box by Friday, September 28 at 5. 
+
 ----------
 ## 
 
