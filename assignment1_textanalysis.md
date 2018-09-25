@@ -83,6 +83,7 @@ The final assignment is comprised of two components:
 1. Topic Modeling Visualization
 2. Written Response 
 
+Due: Saturday, October 6th
 
 ------------------
 
