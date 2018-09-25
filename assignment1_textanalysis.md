@@ -6,7 +6,7 @@ Each person must do a different academic journal. Please email me once you have 
 
 | Name | Journal | Site | 
 |-------|--------| ---------| 
-| Dr. Tilton | American Quaterly |  |
+| Dr. Tilton | American Quaterly | https://nolauren.github.io/dh-topic-models/ |
 | Amanda Corbosiero | Discourse Studies |  |
 | Kobi White | Journal of African American Studies|  | 
 | Emily Song |  The Journal of Criminal Law and Criminology| |
