@@ -107,7 +107,9 @@ Make sure to include a link to your site in your written response. It should be 
 
 The 500-1500 word response should explain the data set, the initial findings, 
 and how one would go about further exploring the data set/ findings/ arguments. 
-It should  also address the following questions:
+In other words, the response should show that you understand what topic modeling is, 
+how it works, and what we can learn from this method by way of applying it to a journal, which can 
+be accomplished by addressing the following questions:
 
 - What is the scope of the journal?
 - What question(s) are you trying to answer?
