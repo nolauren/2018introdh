@@ -1,15 +1,15 @@
 # Assignment 1 - Topic Modeling 
 
-By analyzing academic journals, we can see what scholars have been interested in studying over time. A prime example is the work of Goldstone and Underwood on the PMLA, which we are reading for class. The goal of this assignment to apply a particular text analysis method - topic modeling - to provide a "distant reading"/ "macroanalysis" of a scholarly journal.  The assingment has two components: (1) topic modeling interactive visualizaiton and (2) a reflection piece on the method and what you can learn about the journal using text analysis.  The final assignment should be a markdown file in your repository: https://github.com/introdh/intro-dh2018-YOURUSERNAME 
+By analyzing academic journals, we can see what scholars have been interested in studying over time. A prime example is the work of Goldstone and Underwood on the PMLA, which we are reading for class. The goal of this assignment to apply a particular text analysis method - topic modeling - to provide a "distant reading"/ "macroanalysis" of a scholarly journal.  The assingment has two components: (1) topic mhttps://amandac93.github.io/dh-topic-models/odeling interactive visualizaiton and (2) a reflection piece on the method and what you can learn about the journal using text analysis.  The final assignment should be a markdown file in your repository: https://github.com/introdh/intro-dh2018-YOURUSERNAME 
 
 Each person must do a different academic journal. Please email me once you have selected a journal. I will upate the list here: 
 
 | Name | Journal | Site | 
 |-------|--------| ---------| 
 | Dr. Tilton | American Quaterly | https://nolauren.github.io/dh-topic-models/ |
-| Amanda Corbosiero | Discourse Studies |  |
+| Amanda Corbosiero | Discourse Studies | https://amandac93.github.io/dh-topic-models/ |
 | Kobi White | Journal of African American Studies|  | 
-| Emily Song |  The Journal of Criminal Law and Criminology| |
+| Emily Song |  The Journal of Criminal Law and Criminology| https://emilysong15.github.io/dh-topic-models/  |
 | Kristi Mukk | The American Archivist | https://kristi-m.github.io/dh-topic-models/| 
 | Kylie Britt | The Slavivonic & Eastern European Review | https://kyliebritt.github.io/dh-topic-models/ |
 | Matt Fichera |  Journal of Financial Education |  |
