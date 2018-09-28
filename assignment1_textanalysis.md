@@ -8,7 +8,7 @@ Each person must do a different academic journal. Please email me once you have 
 |-------|--------| ---------| 
 | Dr. Tilton | American Quaterly | https://nolauren.github.io/dh-topic-models/ |
 | Amanda Corbosiero | Discourse Studies | https://amandac93.github.io/dh-topic-models/ |
-| Kobi White | Journal of African American Studies|  | 
+| Kobi White | Journal of African American Studies| https://kaydub14.github.io/dh-topic-models/ | 
 | Emily Song |  The Journal of Criminal Law and Criminology| https://emilysong15.github.io/dh-topic-models/  |
 | Kristi Mukk | The American Archivist | https://kristi-m.github.io/dh-topic-models/| 
 | Kylie Britt | The Slavivonic & Eastern European Review | https://kyliebritt.github.io/dh-topic-models/ |
