@@ -15,10 +15,11 @@ Each person must do a different academic journal. Please email me once you have 
 | Matt Fichera |  Journal of Financial Education |  |
 | Alexis Williams | Gender and Development | |
 | Luke Malcynsky | The Annals of the American Academy of Political and Social Science |  |
-| Sal Girma | Afro-Hispanic Review | |
+| Sal Girma | Afro-Hispanic Review | salgirma.github.io/dh-topic-models |
 | Raven Baugh | The American Poetry Review|  |
-| Kayla Corbin | American Music Journal | |
+| Kayla Corbin | American Music Journal | https://kc5gs.github.io/dh-topic-models/ |
 | Jordan Cannady | The American Sociologist |  |
+
 
 
 
