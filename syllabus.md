@@ -124,7 +124,7 @@ See email.
 - 2018-10-08  Network I 
         
      - Readings:   
-        -   Newman, Mark. Networks: An Introduction. Chapter 1: Introduction. (To be provided.)
+        -   [Newman, Mark. Networks: An Introduction. Chapter 1: Introduction.](https://github.com/nolauren/2018introdh/blob/master/readings/IntroductionA%20short%20introduction%20to%20networks%20and%20why%20we%20study%20them%20-%20Oxford%20Scholarship.pdf)
         - [Weingart, Scott. “Demystifying Networks, Part I & II.” Journal of Digital Humanities. Vol 1 No. 1. Winter 2011.](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart)
         -  Explore [Linked Jazz](https://linkedjazz.org/), [Signs at 40](http://signsat40.signsjournal.org/cocitation/), and  [Wikipedia](xefer.com/WIKIPEDIA)
     
@@ -135,7 +135,7 @@ See email.
 
 - 2018-10-15  Fall Break
 
-- 2018-10-22  Network II / Final Project Workshop
+- 2018-10-22  Network II 
     -  Readings:
         -  [Weingart, Scott. “Topic Modeling and Network Analysis.”](http://www.scottbot.net/HIAL/index.html@p=221.html)
         -  [Weingart, Scott. “Contextualizing networks with maps.”](http://www.scottbot.net/HIAL/index.html@p=1942.html)
@@ -143,13 +143,15 @@ See email.
  
     - Lab: Networks in R
 
-    - Assignment Prep: Come to class with ideas for a network you would like to create and the question(s)/ area of inquiry you would like the network to help address. 
-
 
 - 2018-10-29  Final Assignment / NEH Grant
     - Readings: 
         -  Explore [the grants](https://securegrants.neh.gov/publicquery/main.aspx?q=1&a=0&n=0&o=0&ot=0&k=0&f=0&s=0&cd=0&p=0&d=1&dv=12&y=0&prd=0&cov=0&prz=0&wp=1&ob=year&or=DESC) in this database. Select 1 to close analyze. Come to class prepared to answer the following questions: (1) What is the goal of the grant? (2) What scholarly question(s) or problem(s) is the grant trying to address? (3) Are there other projeects that are similar? Working with (4) Who is involved in the grant? (5) What is the structure of the grant?
         - Talk: Lincoln Mullen 
+
+    - Assignment Prep: Come to class with ideas for a network you would like to create and the question(s)/ area of inquiry you would like the network to help address. 
+
+
 
 *2018-11-2: Network Assignment Due*
 
