@@ -112,9 +112,9 @@ In other words, the response should show that you understand what topic modeling
 how it works, and what we can learn from this method by way of applying it to a journal, which can 
 be accomplished by addressing the following questions:
 
-- What is the scope of the journal?
+- What is the scope of the journal? (i.e. What is the journal about?) Assume the reader in unfamiliar with the journal you selected. 
 - What question(s) are you trying to answer?
-- Which data did you select for the corpus? Make sure to specify the kind of data and periodization. 
+- Which data did you select for the corpus? Make sure to specify the kind of data (i.e. what are the documets? journal articles? ) and periodization (i.e. are you looking at the entire run of the journal? what years?) .  
 - Why the number of topics? 
 - What are the initial findings and/or possible arguments? In other words, what do these topics tell us? Certain patterns? Trends?
 - Drawing on the readings, what are the possibilities and limitations of text analysis and topic modeling?
