@@ -22,7 +22,6 @@ The 500-1500 word paper should address the following:
 - Drawing on the constraints, critiques and ideas in our readings, 
 discuss the possibilitie and limits of network analysis as applied to your network and for 
 network analysis generally. Make sure to cite the readers. 
-(Note: Failure to quote and cite the reading will result in a failing grade.)
 
 ## Data
 
