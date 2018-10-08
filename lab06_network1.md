@@ -56,6 +56,23 @@ should be ready to go.
 
 ### Step 4: Select topics of interest
 
+We are interested in exploring patterns in the Supreme Court. Questions include:
+- Are certain kinds of law decided during certain periods of time?
+- Are contentious cases more central than others? In other words, are the important cases the ones where judges agree or disagree?
+- Which area of the law does the case reflect (according to the WUSTL categories)?
+- Which cases are central to case law?
+- Which cases are more likely to cited with each other?
+- Which case is a linchpin between two areas of the law?
+
+We are working with supreme court data. We will be looking at co-citation networks, 
+which means two cases are connected by an edge if 5 or more cases cite the cases together. 
+We do this because otherwise the network will overrepresent cases that include a lot of citations. 
+
+In order to indentify areas of that law that cases address, 
+Washington University in St. Louis assigned each United States Supreme Court case to a legal issue (ex. desegregation). 
+The [code book](http://scdb.wustl.edu/documentation.php?s=1) lists the corresponding 
+issue assigned [each issue number in the data set](https://github.com/introdh2016/response3_network/blob/master/ussc-31.zip). 
+
 Next, you will want to select which topics of law to visualize. Here, for the demo,
 I'll select the two codes regarding de-segregation:
 
@@ -64,7 +81,7 @@ select_topic_cites(20040, 20050)
 ```
 
 For a list of all the available codes, see [this table](https://github.com/statsmaths/dh_network_lab/blob/master/issue_codes.csv).
-You can select as many issues as you want by seperating them with commas in the
+You can select as many issues as you want by separating them with commas in the
 call to the function `select_topic_cites`. You can also re-run just this function
 with new codes to modify the plots in the next step.
 
