@@ -49,7 +49,7 @@ Please create the data in google sheets and include the link in your paper.
 
 - Images: Include images of your networks. 
 
-- Save as "assignment2_YOURLASTNAME.md" in your repository.
+- Save as "assignment2_YOURLASTNAME.md" in your repository: https://github.com/introdh/YOURUSERNAME
 
 
 - Grading: [Rubric](https://github.com/nolauren/2018introdh/blob/master/assignment2_rubric.pdf)
