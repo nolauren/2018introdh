@@ -10,7 +10,7 @@ at least a reference to one case like the img below:
 ![](https://github.com/nolauren/2018introdh/blob/master/img/brown1.png)
 
 To link to your images in your Paper, you can save the images in Github. To do this by uploading the images to your Github. 
-I have already created a folder in your reposistory called images. 
+I have already created a folder in your reposistory called 'images'. 
 
 
 ## Part 2: Paper
@@ -49,7 +49,7 @@ Please create the data in google sheets and include the link in your paper.
 
 - Images: Include images of your networks. 
 
-- Save as "Assignment4_YOURLASTNAME.md" in your repository.
+- Save as "assignment2_YOURLASTNAME.md" in your repository.
 
 
-- Grading: [Rubric](https://github.com/nolauren/dh2017/blob/master/assignment3_rubric.pdf)
+- Grading: [Rubric](https://github.com/nolauren/2018introdh/blob/master/assignment2_rubric.pdf)
