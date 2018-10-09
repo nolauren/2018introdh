@@ -1,8 +1,5 @@
 # Network Analysis Assignment 
 
-| Name | Issues |
-|------|---------|
-| Dionti Austin | 80170, 20060 | 
 
 ## Part 1: Network
 Build your network in R using [Network Lab I](https://github.com/nolauren/2018introdh/blob/master/lab06_network1.md) 
@@ -47,6 +44,13 @@ We do this because otherwise the network will overrepresent cases that include a
 
 The netowrk must compare at least 2 sets of casses. 
 Make sure in the paper to explain why you picked the cases that are being comparing. 
+
+If you choose to work with Supreme Court data, you must send me the cases 
+and cannot use the same cases as another member of the course. 
+
+| Name | Issues |
+|------|---------|
+| Dionti Austin | 80170, 20060 | 
 
 ### Your Data
 
