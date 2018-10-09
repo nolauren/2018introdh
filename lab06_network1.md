@@ -72,6 +72,8 @@ In order to indentify areas of that law that cases address,
 Washington University in St. Louis assigned each United States Supreme Court case to a legal issue (ex. desegregation). 
 The [code book](http://scdb.wustl.edu/documentation.php?s=1) lists the corresponding 
 issue assigned [each issue number in the data set](https://github.com/introdh2016/response3_network/blob/master/ussc-31.zip). 
+Our data has most of the code but not all. [Use this list](https://github.com/nolauren/2018introdh/blob/master/lab06_network1_scotus_issue_codes.csv) to decide which cases to analyze. 
+
 
 Next, you will want to select which topics of law to visualize. Here, for the demo,
 I'll select the two codes regarding de-segregation:
