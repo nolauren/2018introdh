@@ -29,11 +29,19 @@ You can build your own data set or use the Supreme Court data.
 
 ### Supreme Court
 
+In order to indentify areas of that law that cases address, 
 Washington University in St. Louis assigned each United States Supreme Court case to a legal issue (ex. desegregation). 
-Pick two or more issues and analyze.  The [code book](http://scdb.wustl.edu/documentation.php?s=1) lists the corresponding 
+The [code book](http://scdb.wustl.edu/documentation.php?s=1) lists the corresponding 
 issue assigned [each issue number in the data set](https://github.com/introdh2016/response3_network/blob/master/ussc-31.zip). 
+Our data has most of the code but not all. [Use this list](https://github.com/nolauren/2018introdh/blob/master/lab06_network1_scotus_issue_codes.csv) to decide which cases to analyze. 
 In order to better understand this Supreme Court data, 
 read [Fowler and Jean, The Authority of Supreme Court Precendent](https://github.com/nolauren/dh2017/blob/master/authority_of_supreme_court_precedent.pdf).
+
+For the supreme court data, we are  looking at co-citation networks, 
+which means two cases are connected by an edge if 5 or more cases cite the cases together. 
+We do this because otherwise the network will overrepresent cases that include a lot of citations. 
+
+
 
 ### Your Data
 
