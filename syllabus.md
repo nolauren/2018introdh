@@ -61,12 +61,12 @@ The course will culminate in a final project.
 | 2018-10-08 |  Network I  | 
 | 2018-10-15 |  Fall Break | 
 | 2018-10-22 |  Network II | 
-| 2018-10-29 |  Videographic Criticism | 
+| 2018-10-29 |  Final Assignment / Lincoln Mullen Talk| 
 | 2018-11-2 |   Network Assignment Due | 
 | 2018-11-05 | Spatial Analysis  | 
 | 2018-11-12 |  Spatial Analysis | 
 | 2018-11-19 |  Project Workshop  | 
-| 2018-11-23 | Spatial Analysis Assignment | 
+| 2018-11-23 | Spatial Analysis Assignment Due| 
 | 2018-11-26 | Computational Critique Through the Humanities  | 
 | 2018-12-03 |  NEH Grant Presentations | 
 | 2018-12-13 | NEH Grant Due |
@@ -174,7 +174,7 @@ See email.
 
 - 2018-11-19  Project Workshop 
 
-*2018-11-23: Spatial Analysis Assignment*
+*2018-11-23: Spatial Analysis Assignment Due*
 
 - 2018-11-26  Computational Critique Through the Humanities 
     - Readings:
