@@ -139,7 +139,7 @@ See email.
     -  Readings:
         -  [Weingart, Scott. “Topic Modeling and Network Analysis.”](http://www.scottbot.net/HIAL/index.html@p=221.html)
         -  [Weingart, Scott. “Contextualizing networks with maps.”](http://www.scottbot.net/HIAL/index.html@p=1942.html)
-        -   Network Article TBA
+        -  Pick 1 of the articles from Current Research in Digital History: [Catalano, Josua. "Digitally Analyzing the Uneven Ground Language Borrowing Among Indian Treaties."](http://crdh.rrchnm.org/essays/v01-02-digitally-analyzing-the-uneven-ground/); [Oberle III, George D.](http://crdh.rrchnm.org/essays/v01-13-growing-strong/); or [Bond, Elizabeth Andrews. "Mapping the Media Landscape in Old Regime France Citation Practices and Social Reading in the Affiches, 1770–1788."](http://crdh.rrchnm.org/essays/v01-11-mapping-the-media-landscape-in-old-regime-france/)
  
     - Lab: Networks in R
 
