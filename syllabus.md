@@ -227,9 +227,8 @@ Students are expected to be in class on time.  However, merely showing up for cl
 | Assignment  | Due Date |  
 |----------|------| 
 |Text Analysis | 2018-09-21 | 
-| Structuring Data | 2018-10-12 |
-|Spatial Analysis | 2018-11-02 |
-|Networks Analysis | 2018-11-23 |
+|Network Analysis | 2018-11-02 |
+|Spatial Analysis | 2018-11-23 |
 
 ### Final Project 
 
