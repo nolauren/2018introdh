@@ -3,7 +3,7 @@
 
 ## Part 1: Network
 Build your network in R using [Network Lab I](https://github.com/nolauren/2018introdh/blob/master/lab06_network1.md) 
-and/or Network Lab II. Save images of your networks to include in your paper. 
+and/or [Network Lab II](https://github.com/nolauren/2018introdh/blob/master/lab07_networks2.md). Save images of your networks to include in your paper. 
 You will need to use screenshot - [Mac](https://www.wikihow.com/Take-a-Screenshot-on-a-Mac) 
 and [Windows](https://www.wikihow.com/Take-a-Screenshot-in-Microsoft-Windows). Make sure the images include 
 at least a reference to one case like the img below:
