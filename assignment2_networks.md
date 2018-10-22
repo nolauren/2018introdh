@@ -63,9 +63,9 @@ Please create the data in google sheets and include the link in your paper.
 
 - Citations: Use a modified format since citations will be drawn from course readings. Cite relevant readings using in-text/ parenthetical citations: (author, publication, date). Ex. (Blevins, personal blog, 09-09-2009) or (Goldstone and Underwood, JDH, 2012).
 
-- Images: Include images of your networks. 
+- Images: Include images of networks. There should be an image for each plot type (all 6 types) if you use the Supreme Court Data. If you use your own data, there should at least be an image of plots 1-5.
 
 - Save as "assignment2_YOURLASTNAME.md" in your repository: https://github.com/introdh/YOURUSERNAME
 
 
-- Grading: [Rubric](https://github.com/nolauren/2018introdh/blob/master/assignment2_rubric.pdf)
+- Grading: [Rubric](https://github.com/nolauren/2018introdh/blob/master/assignment2_rubric.pdf).
