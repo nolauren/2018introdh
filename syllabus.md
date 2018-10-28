@@ -149,7 +149,7 @@ See email.
         -  Explore [the grants](https://securegrants.neh.gov/publicquery/main.aspx?q=1&a=0&n=0&o=0&ot=0&k=0&f=0&s=0&cd=0&p=0&d=1&dv=12&y=0&prd=0&cov=0&prz=0&wp=1&ob=year&or=DESC) in this database. Select 1 to close analyze. Come to class prepared to answer the following questions: (1) What is the goal of the grant? (2) What scholarly question(s) or problem(s) is the grant trying to address? (3) Are there other projeects that are similar? Working with (4) Who is involved in the grant? (5) What is the structure of the grant?
         - Talk: Lincoln Mullen 
 
-    - Assignment Prep: Come to class with ideas for a network you would like to create and the question(s)/ area of inquiry you would like the network to help address. 
+    - Assignment Prep: Come to class with (A) the Supreme Court cases you are analyzing or (B) ideas for a network you would like to create and the question(s)/ area of inquiry you would like the network to help address. 
 
 
 
