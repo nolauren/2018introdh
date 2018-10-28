@@ -53,6 +53,8 @@ and cannot use the same cases as another member of the course.
 | Dionti Austin | 80170, 20060 | 
 | Seyoum Settepani | 10060, 10100 | 
 | Emily Song | 30010, 90030 |
+| Amanda Corbosiero | 10010,10110 | 
+| Alexis Williams | 10100, 10090, 10110 | 
 
 ### Your Data
 
