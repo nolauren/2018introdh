@@ -55,6 +55,7 @@ and cannot use the same cases as another member of the course.
 | Emily Song | 30010, 90030 |
 | Amanda Corbosiero | 10010,10110 | 
 | Alexis Williams | 10100, 10090, 10110 | 
+| Sal Girma |  20070, 20050, 20060|
 
 ### Your Data
 
