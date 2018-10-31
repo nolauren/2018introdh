@@ -58,6 +58,10 @@ and cannot use the same cases as another member of the course.
 | Sal Girma |  20070, 20050, 20060|
 | Kristi Mukk | 30160, 20050 | 
 | Jordan Cannady | 20040, 10130 | 
+| Luke | 80180, 80190|
+| Raven | Own Data |
+| Claudia | Own Data |
+
 
 ### Your Data
 
