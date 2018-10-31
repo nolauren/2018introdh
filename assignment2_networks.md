@@ -56,6 +56,7 @@ and cannot use the same cases as another member of the course.
 | Amanda Corbosiero | 10010,10110 | 
 | Alexis Williams | 10100, 10090, 10110 | 
 | Sal Girma |  20070, 20050, 20060|
+| Kristi Mukk | 30160, 20050 | 
 | Jordan Cannady | 20040, 10130 | 
 
 ### Your Data
