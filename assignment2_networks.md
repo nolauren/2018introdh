@@ -61,7 +61,7 @@ and cannot use the same cases as another member of the course.
 | Luke | 80180, 80190|
 | Raven | Own Data |
 | Claudia | Own Data |
-
+| Katie T | 20300, 20290 |
 
 ### Your Data
 
