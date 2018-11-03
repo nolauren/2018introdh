@@ -160,9 +160,9 @@ See email.
         - Bodenhamer, David, [“Beyond GIS: Geospatial Technologies and the Future of History.”](https://github.com/introdh2016/other/blob/master/BeyondGIS.pdf) p. 1-13. History and GIS: Epistomologies,
         Considerations and Reflections. Springer, 2013.  
         - [White, Richard. “What is spatial history?” February 1, 2010](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)
-        - [Hillier, Amy. "Redlining in Philadelphia." Past Time, Past Place: GIS for History. ESRI Press, 2002.](https://github.com/introdh2016/other/blob/master/redliningphilly.pdf)
-        - Explore [American Panorama](http://dsl.richmond.edu/panorama/). Pick a specific map and come prepared to discuss. 
-    - Lab: GIS
+        - Explore [American Panorama](http://dsl.richmond.edu/panorama/). Pick a specific map and come prepared to discuss.
+    - Assignment Prep: In preparation for your final project,  please answer the folllowing in writing: (1) provide a paragraph description of a possible project for your NEH grant, (2) outline 2-3 humanities questions the project will help pose and/or answer, and  (3) identify which DH methods the project will use. Plese print your answers. I will collecting them at the end of class. 
+    - Lab: ESRI StoryMaps
 
 - 2018-11-12  Spatial Analysis
     - Readings:
