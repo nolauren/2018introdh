@@ -159,17 +159,19 @@ See email.
     - Readings:
         - Bodenhamer, David, [“Beyond GIS: Geospatial Technologies and the Future of History.”](https://github.com/introdh2016/other/blob/master/BeyondGIS.pdf) p. 1-13. History and GIS: Epistomologies,
         Considerations and Reflections. Springer, 2013.  
-        - [White, Richard. “What is spatial history?” February 1, 2010](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)
+        - [White, Richard. “What is spatial history?” February 1, 2010](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29).  In particular, I want to make sure everyone is on the same page about the difference between "space" and "place" that Richard White discusses. Come prepared to discuss an example from your own life that outlines the difference between space and place. 
+        - ["What is GIS?" UWisconsin LibGuide.](https://researchguides.library.wisc.edu/GIS)
         - Explore [American Panorama](http://dsl.richmond.edu/panorama/). Pick a specific map and come prepared to discuss.
+
     - Assignment Prep: In preparation for your final project,  please answer the following in writing: (1) provide a paragraph description of a possible project for your NEH grant, (2) outline 2-3 humanities questions the project will help pose and/or answer, and  (3) identify which DH methods the project will use. Plese print your answers. I will be collecting them at the end of class. 
     - Lab: ESRI StoryMaps
 
 - 2018-11-12  Spatial Analysis
     - Readings:
-        - [Crampton, Jeremy. Mapping: A Critical Introduction to Cartography and GIS. Wiley-Blackwell, 2010.](https://github.com/introdh2016/other)
+        - [Crampton, Jeremy. Mapping: A Critical Introduction to Cartography and GIS. Wiley-Blackwell, 2010. Chapter 1](https://github.com/introdh2016/other/blob/master/mappingcrampton_IntroCh1.pdf)
         - Thick Mapping: TBA
-        - Explore [American Panorama](http://dsl.richmond.edu/panorama/). Come to class prepared to think about a specific map through the lends of Crampton and Presner, et al. 
-    - Assignment Prep: Make sure you are tracking your movement through the meachism of your choice. 
+        - Explore [American Panorama](http://dsl.richmond.edu/panorama/). Come to class prepared to think about a specific map through the lens of Crampton and Presner, et al. 
+    - Assignment Prep: Make sure you are tracking your movement through the tool of your choice. 
     - Lab: GIS 
 
 - 2018-11-19  Project Workshop 
