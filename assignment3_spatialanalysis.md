@@ -6,7 +6,7 @@ The goal of this assignment is to use "representations of space" to communicate 
 ## Part 1
 Build and map a custom data set about your activies over the course of week. 
 - Build a dataset outling your activites over the course of a week. 
-The data should track one week at UR from Monday, November 5 - Monday, November 12. You are welcome to add more days. 
+The data should track one week at UR from Monday, November 5 - Monday, November 12. You are welcome to add more days. [See Lab 8 for directions.](https://github.com/nolauren/2018introdh/blob/master/lab08_spatialdata.md)
 - Map your movement over a week using ESRI ArcGIS Online from your spatial data. 
 
 
