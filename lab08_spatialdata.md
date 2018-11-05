@@ -50,7 +50,7 @@ We can get this information using systems like [Google Maps](https://maps.google
 or [Latlong.net](https://www.latlong.net/)
 
 
-## Spreadsheet
+## Making Your Own Data
 One way to keep track of your locations is to build a custom data set using a spreadsheet. Here is a [template](https://docs.google.com/spreadsheets/d/19K4ENdnGEhR-GNa7LTJlGOoOdqAzbWZrDcJGCuXB3E8/edit?usp=sharing). What are the columns and rows?
 
 - Save your own copy. Log into your google account using your @richmond account. Then select 'File' -> 'Make a Copy'. This will save a copy in your Google Drive, which you can edit. 
