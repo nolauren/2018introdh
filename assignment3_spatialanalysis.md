@@ -7,16 +7,17 @@ The goal of this assignment is to use "representations of space" to communicate 
 Build and map a custom data set about your activies over the course of week. 
 - Build a dataset outling your activites over the course of a week. 
 The data should track one week at UR from Monday, November 5 - Monday, November 12. You are welcome to add more days. [See Lab 8 for directions.](https://github.com/nolauren/2018introdh/blob/master/lab08_spatialdata.md)
-- Map your movement over a week using ESRI ArcGIS Online from your spatial data. 
-
+- Map your movement over a week using [ESRI ArcGIS Online](https://www.arcgis.com/home/index.html) from your spatial data.  
 
 ## Part 2
 
-Develop a Storymap that narrates your relationship to "space" and "place" at UR. 
+Develop a [Storymap](https://storymaps.arcgis.com/en/) that narrates your relationship to "space" and "place" at UR. 
 - At least 10 slides. 
 - Include your ArcGIS Online map.
 - At least five slides must use the Story Actions features.
 - The Storymap should make a claim about your relationship to "space" and "place" at UR. 
+
+For an idea of what an ESRI Storymap looks like, see  [The Life and Words of Dr. Martin Luther King Jr.](https://storymaps.esri.com/stories/2017/mlk/), [Taking Pride](http://nyclpc.maps.arcgis.com/apps/MapJournal/index.html?appid=f56a0b10ac214b0a97f1cb7934f8ef49), [Black History and its Influence on the East 38th St Community](http://cityoflakes.maps.arcgis.com/apps/MapJournal/index.html?appid=0483fe8f48d646a8a160f8773eb4a9a9), and [United States of Apathy](https://urbanobservatory.maps.arcgis.com/apps/MapJournal/index.html?appid=95f38693320c408a87dbb33762d82e82)
 
 ## Part 3
 Write a short reflection on the process that answers the following questions (500-1000 words):
