@@ -164,15 +164,15 @@ See email.
         - Explore [American Panorama](http://dsl.richmond.edu/panorama/). Pick a specific map and come prepared to discuss.
 
     - Assignment Prep: In preparation for your final project,  please answer the following in writing: (1) provide a paragraph description of a possible project for your NEH grant, (2) outline 2-3 humanities questions the project will help pose and/or answer, and  (3) identify which DH methods the project will use. Plese print your answers. I will be collecting them at the end of class. 
-    - Lab: ESRI StoryMaps
+    - Lab: Data
 
 - 2018-11-12  Spatial Analysis
     - Readings:
         - [Crampton, Jeremy. Mapping: A Critical Introduction to Cartography and GIS. Wiley-Blackwell, 2010. Chapter 1](https://github.com/introdh2016/other/blob/master/mappingcrampton_IntroCh1.pdf)
         - Thick Mapping: TBA
         - Explore [American Panorama](http://dsl.richmond.edu/panorama/). Come to class prepared to think about a specific map through the lens of Crampton and Presner, et al. 
-    - Assignment Prep: Make sure you are tracking your movement through the tool of your choice. 
-    - Lab: GIS 
+    - Assignment Prep: Make sure you are tracking your movement according to our [Spatial Data Lab](https://github.com/nolauren/2018introdh/blob/master/lab08_spatialdata.md). Bring your completed data set to class. 
+    - Lab: GISOnline + Storymaps
 
 - 2018-11-19  Project Workshop 
 
