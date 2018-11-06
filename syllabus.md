@@ -211,13 +211,7 @@ See email.
 
 ### Attendance: 
 
-Students are expected to be in class on time.  However, merely showing up for class does not guarantee "A" participation. See below for class participation assessment guidelines. Students are permitted one (1) unexcused absence over the course of the semester. Additional absences will result in a class participation grade penalty of .3 points/class, unless valid documentation is provided within one week of the absence. If a student is absent, it is their responsibility to inquire about what they have missed. Absences due to university activities (e.g., sports, debate, etc.) must be discussed with the instructor before the relevant class period(s). An official notice must be shown to the instructor. Arrangements concerning absences are entirely at the instructor’s discretion. Absences, unless for documented illness, emergency, or university business, will result in a loss of participation points.  More than three absences will constitute grounds for failing this course. If you are absent on a given day, it is your responsibility to catch up on any work you miss. To support this process, the class will be divided into groups of 3. Whenever you miss class, you should get notes from another student. Note sharing is encouraged. Write down the contact information for three other students who you can email/text/call to get a copy of their notes should you miss a class:
-
-| Name | Email | Phone |
-|------|--------|----|
-|                 |                 |                 |
-|                 |                 |                 |
-|                 |                 |                 |
+Students are expected to be in class on time.  However, merely showing up for class does not guarantee "A" participation. See below for class participation assessment guidelines. Students are permitted one (1) unexcused absence over the course of the semester. Additional absences will result in a class participation grade penalty of .3 points/class, unless valid documentation is provided within one week of the absence. If a student is absent, it is their responsibility to inquire about what they have missed. Absences due to university activities (e.g., sports, debate, etc.) must be discussed with the instructor before the relevant class period(s). An official notice must be shown to the instructor. Arrangements concerning absences are entirely at the instructor’s discretion. Absences, unless for documented illness, emergency, or university business, will result in a loss of participation points.  More than three absences will constitute grounds for failing this course. Whenever you miss class, you should get notes from another student. Note sharing is encouraged. 
  
 
  I am more than happy to answer questions regarding course materials, however, it is your responsibility to be in touch with me.
