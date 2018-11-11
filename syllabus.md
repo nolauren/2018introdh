@@ -169,7 +169,6 @@ See email.
 - 2018-11-12  Spatial Analysis
     - Readings:
         - [Crampton, Jeremy. Mapping: A Critical Introduction to Cartography and GIS. Wiley-Blackwell, 2010. Chapter 1](https://github.com/introdh2016/other/blob/master/mappingcrampton_IntroCh1.pdf)
-        - Thick Mapping: TBA
         - Explore [American Panorama](http://dsl.richmond.edu/panorama/). Come to class prepared to think about a specific map through the lens of Crampton and Presner, et al. 
     - Assignment Prep: Make sure you are tracking your movement according to our [Spatial Data Lab](https://github.com/nolauren/2018introdh/blob/master/lab08_spatialdata.md). Bring your completed data set to class. 
     - Lab: GISOnline + Storymaps
