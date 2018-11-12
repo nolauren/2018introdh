@@ -43,6 +43,8 @@ Now select 'Create a Web App' -> Select 'Build A StoryMap' -> Select 'Story Map 
 
 ![](https://github.com/nolauren/2018introdh/blob/master/img/mydata.png)
 
+----------
+
 ![](https://github.com/nolauren/2018introdh/blob/master/img/webapp.png)
 
 
