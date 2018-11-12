@@ -20,7 +20,7 @@ Most of the time, you are going to want to go to "Content" on the top menu when 
 
 - Select 'Create'. Select 'Map' and fill it out. Now you have a blank map.
 - Go go to 'Add' and 'Add Layer from File' and select your .csv file. 
-- Select 'Save'.
+- **Select 'Save'.**
 
 The map that you have created is the main map.
 
