@@ -173,7 +173,9 @@ See email.
     - Assignment Prep: Make sure you are tracking your movement according to our [Spatial Data Lab](https://github.com/nolauren/2018introdh/blob/master/lab08_spatialdata.md). Bring your completed data set to class. 
     - Lab: GISOnline + Storymaps
 
-- 2018-11-19  Project Workshop 
+- 2018-11-19   GIS/ Project Workshop 
+    - Develop your ArcGIS Map and 5 sections of your StoryMap. If you having challenges completing a certain tasks, please write them down. We will go over them in class. 
+    - Come to class having completed the first part of [Lab 10: Grant Workshop](https://github.com/nolauren/2018introdh/blob/master/lab10_grantworkshop.md). 
 
 *2018-11-23: Spatial Analysis Assignment Due*
 
