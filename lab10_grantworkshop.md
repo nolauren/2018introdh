@@ -3,7 +3,7 @@
 
 ## Question/ Abstract
 
-In your repository, write your answers to the following: 
+Before class, write your answers to the following: 
 
 (1) Formulate the humanities question(s) guiding the project. 
 
@@ -16,7 +16,7 @@ The characterstics of a strong abstract:
 - identifies which humanities fields/ disciplines the project is engaged in 
 
 
-Name the file "grantworkshop_lastname.md"
+Name the file "grantworkshop_lastname.md" and save it in your repostory: https://github.com/introdh/intro-dh2018-YOURUSERNAME
 
 
 
