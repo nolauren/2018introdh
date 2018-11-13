@@ -33,6 +33,8 @@ Go to 'Content' -> Select the the three dots *** -> 'Configure Popup'
 
 ## Web App / Build A Storymap
 
+Now that you have a map. You can make a Storymap! The goal of a Storymap is to tell a story using a combination of text, images, and maps. 
+
 Go 'Content' -> 'My Content' -> Select your data.
 
 ![](https://github.com/nolauren/2018introdh/blob/master/img/content.png)
@@ -47,5 +49,19 @@ Now select 'Create a Web App' -> Select 'Build A StoryMap' -> Select 'Story Map 
 
 ![](https://github.com/nolauren/2018introdh/blob/master/img/webapp.png)
 
+
+
+### Sections
+Each section acts like a slide. 
+
+![]()
+
+https://github.com/nolauren/2018introdh/blob/master/img/Sections.png
+
+
+### StoryActions
+To add one, you have to create text in the Section. Then highlight a piece of text and you'll see the StoryActions part of the toolbar light up. Now you can add an action to your slide!
+
+![](https://github.com/nolauren/2018introdh/blob/master/img/StoryActions.png)
 
 
