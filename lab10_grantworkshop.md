@@ -9,7 +9,7 @@ Before class, write your answers to the following:
 
 (2) Provide a one-paragraph abstract written for a nonspecialist audience, clearly explaining the project’s principal activities and its expected results.
 
-The characterstics of a strong abstract:
+The characteristics of a strong abstract:
 
 - explains the humanities question(s) guiding the project
 - includes the DH methods that will be used and why
@@ -37,7 +37,7 @@ In your group, share your question(s)/ abstract and answer the following questio
 - Could this project be accomplished in 1-2 years?
 - Is there a similar project already in process?
 
-Sources for Environemtnal Scan:
+Sources for Environmental Scan:
 
 - https://dhcommons.org/projects
 - http://dhawards.org/
