@@ -18,7 +18,11 @@ The characterstics of a strong abstract:
 
 Name the file "grantworkshop_lastname.md" and save it in your repostory: https://github.com/introdh/intro-dh2018-YOURUSERNAME
 
+## Read the Final Grant Application. 
 
+Read the [final grant application](https://github.com/nolauren/2018introdh/blob/master/finalgrant.pdf).
+
+Questions?
 
 
 ## Peer Review
