@@ -182,8 +182,8 @@ See email.
 - 2018-11-26  Computational Critique Through the Humanities 
     - Readings:
         - [Fitzpatrick, Kathleen. “The Humanities, Done Digitally.” Debates in the Digital Humanities. 2012.](http://dhdebates.gc.cuny.edu/debates/text/30)
-        - [What is code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)  
-        - ["Code Is Political." Vice Motherboard.](https://motherboard.vice.com/en_us/article/3dak5w/code-is-political)
+        - [(Optional) What is code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)  
+        - ["Code Is Political." Vice Motherboard.](https://motherboard.vice.com/en_us/article/3dak5w/code-is-political) 
     - Lab: NEH Grant     
 
 - 2018-12-03  Presentations
