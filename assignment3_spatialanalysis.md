@@ -30,6 +30,8 @@ Write a short reflection on the process that answers the following questions (50
 ## More Details	
 - Save your assignment as "assignment3_YOURLASTNAME.md"
 
-- Include links to your data (google sheet) and StoryMap. 
+- Include links to your data (google sheet) and StoryMap. The StoryMap link should either be the Organization or Public link as we walked through in class. Make sure the google link is one that does not require permissions. See image below:
+
+![](https://github.com/nolauren/2018introdh/blob/master/img/Screen%20Shot%202018-11-20%20at%205.40.35%20PM.png)
 
 - Citations: Please use a modified format since citations will be drawn from course readings. Cite relevant readings using in-text/ parenthetical citations: (author, publication, date). Ex. (Blevins, personal blog, 09-09-2009) or (Goldstone and Underwood, JDH, 2012).
