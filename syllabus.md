@@ -66,7 +66,7 @@ The course will culminate in a final project.
 | 2018-11-05 | Spatial Analysis  | 
 | 2018-11-12 |  Spatial Analysis | 
 | 2018-11-19 |  Project Workshop  | 
-| 2018-11-23 | Spatial Analysis Assignment Due| 
+| 2018-11-25 | Spatial Analysis Assignment Due| 
 | 2018-11-26 | Computational Critique Through the Humanities  | 
 | 2018-12-03 |  NEH Grant Presentations | 
 | 2018-12-13 | NEH Grant Due |
@@ -177,7 +177,7 @@ See email.
     - Develop your ArcGIS Map and 5 sections of your StoryMap. If you having challenges completing a certain tasks, please write them down. We will go over them in class. 
     - Come to class having completed the first part of [Lab 10: Grant Workshop](https://github.com/nolauren/2018introdh/blob/master/lab10_grantworkshop.md). 
 
-*2018-11-23: Spatial Analysis Assignment Due*
+*2018-11-25: Spatial Analysis Assignment Due*
 
 - 2018-11-26  Computational Critique Through the Humanities 
     - Readings:
