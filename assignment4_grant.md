@@ -28,7 +28,7 @@ Each person will be a member of the selection committee and we will vote to fund
 
 **Goal**: Convince the grants committee to fund you! The top two grants will recieve a prize. 
 
-**Time**: 5-10 minutes
+**Time**: 5-10 minutes; 5 minute presentation followed by Q&A and voting
 
 **Sign-Up**: [Here](https://docs.google.com/spreadsheets/d/1ZLt54GigU9prI0jdyIo7S08O-LZ1KqnOQkBstKMIMHs/edit?usp=sharing).
 
