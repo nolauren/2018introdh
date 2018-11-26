@@ -30,7 +30,7 @@ Each person will be a member of the selection committee and we will vote to fund
 
 **Time**: 5-10 minutes
 
-**Sign-Up**: [Here](https://docs.google.com/spreadsheets/d/16QmvP4v1C9oYBT_S_s36eYO5PVkgwdzOZxGs0cf4DqA/edit?usp=sharing).
+**Sign-Up**: [Here](https://docs.google.com/spreadsheets/d/1ZLt54GigU9prI0jdyIo7S08O-LZ1KqnOQkBstKMIMHs/edit?usp=sharing).
 
 
 Make sure to describe:
