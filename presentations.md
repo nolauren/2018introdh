@@ -4,7 +4,7 @@ Voting is [here!](https://docs.google.com/forms/d/e/1FAIpQLSdTRbxFICtKpOkThtr7Hn
 - [Seyoum +  Tae](https://docs.google.com/presentation/d/1xuqJG_CbAYg24HvA-d480tFJ02rvGgzJVaCo4-fEY2Q/edit?usp=sharing_eil&invite=CKau1K0L&ts=5c0587b7)
 - [Alexis](https://docs.google.com/presentation/d/1HbqoCEW68vVuS9hdJhvNF6Qi23w93IjAHC8tr8mXQ_Y/edit?usp=sharing_eil&invite=CM36rNYC&ts=5c058971)
 - [Claudia](https://docs.google.com/presentation/d/1mWFiA_OT1Ws1wqsWrUUL9xhAXH0mC8gdy3gjakfwo74/edit?usp=sharing_eil&invite=CMGOr9AJ&ts=5c0582d9)
-- [Kristi](https://docs.google.com/presentation/d/1mWFiA_OT1Ws1wqsWrUUL9xhAXH0mC8gdy3gjakfwo74/edit?usp=sharing_eil&invite=CMGOr9AJ&ts=5c0582d9)
+- [Kristi](https://docs.google.com/presentation/d/1X6LO8pAZxTKa3O-H3gVCq27wlxqcrF8cvoiB8AjgFK0/edit?ts=5c04aae9)
 - [Kylie](https://docs.google.com/presentation/d/1mWFiA_OT1Ws1wqsWrUUL9xhAXH0mC8gdy3gjakfwo74/edit?usp=sharing_eil&invite=CMGOr9AJ&ts=5c0582d9)
 - [Sal](https://docs.google.com/forms/d/e/1FAIpQLSdTRbxFICtKpOkThtr7HnNtj4s2T5HTonOQqMiOqQl3KilmtA/viewform?usp=sf_link)
 - [Amanda](https://docs.google.com/forms/d/e/1FAIpQLSdTRbxFICtKpOkThtr7HnNtj4s2T5HTonOQqMiOqQl3KilmtA/viewform?usp=sf_link)
