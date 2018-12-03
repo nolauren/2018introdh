@@ -1,0 +1,13 @@
+Voting is [here!](https://docs.google.com/forms/d/e/1FAIpQLSdTRbxFICtKpOkThtr7HnNtj4s2T5HTonOQqMiOqQl3KilmtA/viewform?usp=sf_link)
+
+- [Emily](https://docs.google.com/presentation/d/1ENIfa8WhaCtcwqHMzdNHqVFqgS01XhXJnOWs468i7co/edit?invite=CM2E8r4H&ts=5c056980#slide=id.p)
+- [Seyoum +  Tae](https://docs.google.com/presentation/d/1xuqJG_CbAYg24HvA-d480tFJ02rvGgzJVaCo4-fEY2Q/edit?usp=sharing_eil&invite=CKau1K0L&ts=5c0587b7)
+- [Alexis](https://docs.google.com/presentation/d/1HbqoCEW68vVuS9hdJhvNF6Qi23w93IjAHC8tr8mXQ_Y/edit?usp=sharing_eil&invite=CM36rNYC&ts=5c058971)
+- [Claudia](https://docs.google.com/presentation/d/1mWFiA_OT1Ws1wqsWrUUL9xhAXH0mC8gdy3gjakfwo74/edit?usp=sharing_eil&invite=CMGOr9AJ&ts=5c0582d9)
+- [Kristi](https://docs.google.com/presentation/d/1mWFiA_OT1Ws1wqsWrUUL9xhAXH0mC8gdy3gjakfwo74/edit?usp=sharing_eil&invite=CMGOr9AJ&ts=5c0582d9)
+- [Kylie](https://docs.google.com/presentation/d/1mWFiA_OT1Ws1wqsWrUUL9xhAXH0mC8gdy3gjakfwo74/edit?usp=sharing_eil&invite=CMGOr9AJ&ts=5c0582d9)
+- [Sal](https://docs.google.com/forms/d/e/1FAIpQLSdTRbxFICtKpOkThtr7HnNtj4s2T5HTonOQqMiOqQl3KilmtA/viewform?usp=sf_link)
+- [Amanda](https://docs.google.com/forms/d/e/1FAIpQLSdTRbxFICtKpOkThtr7HnNtj4s2T5HTonOQqMiOqQl3KilmtA/viewform?usp=sf_link)
+- [Raven](https://docs.google.com/presentation/d/1G_E_fXRDqSA75D1Bbl7IgPWa-zHu_5SsclGHZ4CJ6gQ/edit?ts=5c058b0b)
+- [Kobi](https://docs.google.com/presentation/d/1G_E_fXRDqSA75D1Bbl7IgPWa-zHu_5SsclGHZ4CJ6gQ/edit?ts=5c058b0b)
+- [Matt](https://docs.google.com/presentation/d/10zSlBVqWK4_6JRg_DIeVPDjBJMB05I-wClrDpMCT0vQ/edit?invite=CMeA3TM&ts=5c058b27#slide=id.p)
