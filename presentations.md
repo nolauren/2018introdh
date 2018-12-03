@@ -12,4 +12,4 @@ Voting is [here!](https://docs.google.com/forms/d/e/1FAIpQLSdTRbxFICtKpOkThtr7Hn
 - [Kobi](https://docs.google.com/presentation/d/1V-wXH6u3CN51xg9ufM0G-IWNKaMimg65yuVRqOEOOUU/edit?invite=CJjPu-YI&ts=5c058b21#slide=id.p)
 - [Matt](https://docs.google.com/presentation/d/10zSlBVqWK4_6JRg_DIeVPDjBJMB05I-wClrDpMCT0vQ/edit?invite=CMeA3TM&ts=5c058b27#slide=id.p)
 - [Luke](https://docs.google.com/presentation/d/10zSlBVqWK4_6JRg_DIeVPDjBJMB05I-wClrDpMCT0vQ/edit?invite=CMeA3TM&ts=5c058b27#slide=id.p)
-- [Katie](https://docs.google.com/presentation/d/1X6LO8pAZxTKa3O-H3gVCq27wlxqcrF8cvoiB8AjgFK0/edit?ts=5c04aae9)
+- [Katie](https://docs.google.com/presentation/d/1vgkwREbsGqJFctyhgR5fRnj5D-uzLuOjrxphpH0qAN0/edit?invite=CLOxhZYH&ts=5c058b81#slide=id.p)
