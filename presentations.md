@@ -6,7 +6,7 @@ Voting is [here!](https://docs.google.com/forms/d/e/1FAIpQLSdTRbxFICtKpOkThtr7Hn
 - [Claudia](https://docs.google.com/presentation/d/1mWFiA_OT1Ws1wqsWrUUL9xhAXH0mC8gdy3gjakfwo74/edit?usp=sharing_eil&invite=CMGOr9AJ&ts=5c0582d9)
 - [Kristi](https://docs.google.com/presentation/d/1X6LO8pAZxTKa3O-H3gVCq27wlxqcrF8cvoiB8AjgFK0/edit?ts=5c04aae9)
 - [Kylie](https://docs.google.com/presentation/d/1mWFiA_OT1Ws1wqsWrUUL9xhAXH0mC8gdy3gjakfwo74/edit?usp=sharing_eil&invite=CMGOr9AJ&ts=5c0582d9)
-- [Sal](https://docs.google.com/presentation/d/1X6LO8pAZxTKa3O-H3gVCq27wlxqcrF8cvoiB8AjgFK0/edit?ts=5c04aae9)
+- [Sal](https://docs.google.com/presentation/d/1O0aBd9J5qlnlD04JRZfSNosV5fCALpabrhH21b_k7iM/edit?invite=CIfx5dUO&ts=5c058aab#slide=id.p)
 - [Amanda](https://docs.google.com/presentation/d/1CM9AE5Bc70R_uYgXUj0XXCSkS39LIFLwAgbgVXZE5NE/edit?invite=COGCycEO&ts=5c058abd#slide=id.p)
 - [Raven](https://docs.google.com/presentation/d/1G_E_fXRDqSA75D1Bbl7IgPWa-zHu_5SsclGHZ4CJ6gQ/edit?ts=5c058b0b)
 - [Kobi](https://docs.google.com/presentation/d/1V-wXH6u3CN51xg9ufM0G-IWNKaMimg65yuVRqOEOOUU/edit?invite=CJjPu-YI&ts=5c058b21#slide=id.p)
