@@ -11,3 +11,5 @@ Voting is [here!](https://docs.google.com/forms/d/e/1FAIpQLSdTRbxFICtKpOkThtr7Hn
 - [Raven](https://docs.google.com/presentation/d/1G_E_fXRDqSA75D1Bbl7IgPWa-zHu_5SsclGHZ4CJ6gQ/edit?ts=5c058b0b)
 - [Kobi](https://docs.google.com/presentation/d/1G_E_fXRDqSA75D1Bbl7IgPWa-zHu_5SsclGHZ4CJ6gQ/edit?ts=5c058b0b)
 - [Matt](https://docs.google.com/presentation/d/10zSlBVqWK4_6JRg_DIeVPDjBJMB05I-wClrDpMCT0vQ/edit?invite=CMeA3TM&ts=5c058b27#slide=id.p)
+- [Luke](https://docs.google.com/presentation/d/10zSlBVqWK4_6JRg_DIeVPDjBJMB05I-wClrDpMCT0vQ/edit?invite=CMeA3TM&ts=5c058b27#slide=id.p)
+- [Katie](https://docs.google.com/presentation/d/10zSlBVqWK4_6JRg_DIeVPDjBJMB05I-wClrDpMCT0vQ/edit?invite=CMeA3TM&ts=5c058b27#slide=id.p)
